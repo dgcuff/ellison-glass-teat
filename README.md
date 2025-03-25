@@ -143,3 +143,4 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 
 - [Warwick, Dionne](https://en.wikipedia.org/wiki/Dionne_Warwick): 6 Mar 1970
 - [Woodstock Nation](https://en.wikipedia.org/wiki/Woodstock_Nation): 6 Mar 1970
+- _Writer's Cramp, The_ newsletter: 6 Mar 1970
