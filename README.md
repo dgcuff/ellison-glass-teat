@@ -1,7 +1,7 @@
 # The Glass Teat by Harlan Ellison
 An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles Free Press_](https://en.wikipedia.org/wiki/Los_Angeles_Free_Press) underground newspaper. These columns were later published in book form in two volumes: [_The Glass Teat_](https://en.wikipedia.org/wiki/The_Glass_Teat) (1970) and _The Other Glass Teat_ (1975).
 
-> This is a work in progress.
+> This index is a work in progress.
 
 ## A
 
