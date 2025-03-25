@@ -10,7 +10,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the _Los Angeles Fr
 
 ## C
 
-- [Chapman, Leigh](https://en.wikipedia.org/wiki/Leigh_Chapman): (_to come_)
+- [Chapman, Leigh](https://en.wikipedia.org/wiki/Leigh_Chapman): 21 Mar 1969
 
 ## D
 
