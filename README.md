@@ -3,7 +3,8 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 
 ## A
 
-- [Agnew, Spiro](https://en.wikipedia.org/wiki/Spiro_Agnew): 20 Feb 1970
+- [Agnew, Spiro](https://en.wikipedia.org/wiki/Spiro_Agnew): 20 Feb 1970; 27 Feb 1970
+- [_Archies, The_](https://en.wikipedia.org/wiki/The_Archie_Show) (CBS): 27 Feb 1970
 
 ## B
 
@@ -23,7 +24,6 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 
 - [Daley, Richard J.](https://en.wikipedia.org/wiki/Richard_J._Daley): 20 Feb 1970
 - _Day They Closed Down the Schools, The_: 13 Feb 1970
-- Dial soap: 20 Feb 1970
 - Dr Dentons brand blanket sleeper pyjamas: 13 Feb 1970
 
 ## F
@@ -39,6 +39,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - girlfriends of Harlan Ellison: _see_ Leigh Chapman; Louise
 - [_Gomer Pyle - USMC_](https://en.wikipedia.org/wiki/Gomer_Pyle_%E2%80%93_USMC) (CBS): 13 Feb 1970
 - [_Good Guys, The_](https://en.wikipedia.org/wiki/The_Good_Guys_(1968_TV_series)) (CBS): 13 Feb 1970
+- Greene, Margery: _see_ Milne, Lorus J. and Margery
 
 ## H
 
@@ -49,6 +50,8 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 
 
 ## L
+
+- [_Land of the Giants_](https://en.wikipedia.org/wiki/Land_of_the_Giants) (ABC): 27 Feb 1970
 - [Lewis, Jerry](https://en.wikipedia.org/wiki/Jerry_Lewis): 13 Feb 1970
 - Liggett & Myers Tobacco Company (Liggett Group): 20 Feb 1970
 - [Long, Richard](https://en.wikipedia.org/wiki/Richard_Long_(actor)): 13 Feb 1970
@@ -58,12 +61,18 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 ## M
 
 - [Mills, Juliet](https://en.wikipedia.org/wiki/Juliet_Mills): 13 Feb 1970
+- [Milne, Lorus J.](https://fr.wikipedia.org/wiki/Lorus_Milne) and Margery (nee Greene): 27 Feb 1970
+- Montgomery Ward & Co.: 27 Feb 1970 (as "Monkey Ward")
 - Murphy, W. J.: 20 Feb 1970
 
 ## N
 
 - [_Nanny and the Professor_](https://en.wikipedia.org/wiki/Nanny_and_the_Professor) (ABC): 13 Feb 1970
-- [Nixon, Richard](https://en.wikipedia.org/wiki/Richard_Nixon): 20 Feb 1970
+- [Nixon, Richard](https://en.wikipedia.org/wiki/Richard_Nixon): 20 Feb 1970; 27 Feb 1970
+
+## O
+
+- [Oldenbourg, Zoe](https://en.wikipedia.org/wiki/Zo%C3%A9_Oldenbourg): 27 Feb 1970
 
 ## P
 
@@ -73,6 +82,8 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 
 ## S
 
+- Sears, Roebuck and Co.: 27 Feb 1970
+- [_Senses of Animals and Men, The_](https://archive.org/details/sensesofanimalsm0000miln) (Atheneum, 1962): 27 Feb 1970
 - Standard Oil Company of California (Chevron): 20 Feb 1970
 - _Survivors, The_: see _Harold Robbins' The Survivors_
 
