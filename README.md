@@ -10,7 +10,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the Los Angeles Fre
 
 ## C
 
-- Chapman, Leigh: (_to come_)
+- [Chapman, Leigh](https://en.wikipedia.org/wiki/Leigh_Chapman): (_to come_)
 
 ## D
 
@@ -57,4 +57,4 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the Los Angeles Fre
 
 ## S
 
-- _Survivors, The_: _see_ _Harold Robbins' The Survivors_
+- _Survivors, The_: see _Harold Robbins' The Survivors_
