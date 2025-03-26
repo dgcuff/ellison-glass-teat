@@ -17,9 +17,10 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - [_Archies, The_](https://en.wikipedia.org/wiki/The_Archie_Show) (CBS): 27 Feb 1970
 - [Allen, Irwin](https://en.wikipedia.org/wiki/Irwin_Allen): 3 Apr 1970
 - [Allen, Woody](https://en.wikipedia.org/wiki/Woody_Allen): 27 Mar 1970
-- [Altamont Free Concert](https://en.wikipedia.org/wiki/Altamont_Free_Concert): 6 Mar 1970
+- [Altamont Free Concert](https://en.wikipedia.org/wiki/Altamont_Free_Concert): 6 Mar 1970; 24 Apr 1970
 - [_Astounding Science Fiction_ ](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) (_Analog Science Fiction and Fact_) magazine: 20 Mar 1970
 - ["Arena"](https://en.wikipedia.org/wiki/Arena_(short_story)) (short story by Fredric Brown): 20 Mar 1970
+- _Awake and Sing!_: 24 Apr 1970
 
 ## B
 
@@ -48,9 +49,10 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 
 - [Carroll, Diahann](https://en.wikipedia.org/wiki/Diahann_Carroll): 3 Apr 1970
 - [Chapman, Leigh](https://en.wikipedia.org/wiki/Leigh_Chapman): 21 Mar 1969
+- [Clarke, Arthur C.](https://en.wikipedia.org/wiki/Arthur_C._Clarke): 24 Apr 1970
 - Chevron Corporation: _see_ Standard Oil Company of California
 - [Chicago riots (1968)](https://en.wikipedia.org/wiki/1968_Chicago_riots): 20 Feb 1970
-- [Chicago Seven](https://en.wikipedia.org/wiki/Chicago_Seven): 6 Mar 1970
+- [Chicago Seven](https://en.wikipedia.org/wiki/Chicago_Seven): 6 Mar 1970; 24 Apr 1970
 - [Cobb, Lee J.](https://en.wikipedia.org/wiki/Lee_J._Cobb): 3 Apr 1970
 - Cowsills, The: 3 Apr 1970
 
@@ -62,6 +64,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - _Day They Closed Down the Schools, The_: 13 Feb 1970
 - [_Dial Hot Line_](https://en.wikipedia.org/wiki/Dial_Hot_Line) made-for-TV movie (Universal, aired ABC): 3 Apr 1970
 - [Dickinson, Angie](https://en.wikipedia.org/wiki/Angie_Dickinson): 20 Mar 1970
+- [Dickson, Gordon](https://en.wikipedia.org/wiki/Gordon_R._Dickson): 24 Apr 1970
 - Dr Dentons brand blanket sleeper pyjamas: 13 Feb 1970
 
 ## E
@@ -93,6 +96,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - [_Good Guys, The_](https://en.wikipedia.org/wiki/The_Good_Guys_(1968_TV_series)) (CBS): 13 Feb 1970
 - [Gorme, Eydie](https://en.wikipedia.org/wiki/Eydie_Gorm%C3%A9): 6 Mar 1970
 - Greene, Margery: _see_ Milne, Lorus J. and Margery
+- [Gunn, James E.](https://en.wikipedia.org/wiki/James_E._Gunn): 24 Apr 1970
 
 ## H
 
@@ -100,11 +104,12 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - [_Harold Robbins The Survivors_](https://en.wikipedia.org/wiki/Harold_Robbins%27_The_Survivors) (ABC): 13 Feb 1970
 - Hasbro, Inc.: _see_ Kenner Products
 - [_Hello, Dolly!_](https://www.imdb.com/title/tt0064418/reference/?ref_=fn_all_ttl_1) (Twentieth Century Fox): 20 Mar 1970
-- Hells Angels Motorcycle Club: 6 Mar 1970
+- Hells Angels Motorcycle Club: 6 Mar 1970; 24 Apr 1970
 - [_Here Comes the Brides_](https://en.wikipedia.org/wiki/Here_Come_the_Brides) (ABC): 3 Apr 1970
 - [Hinckle, Warren, III](https://en.wikipedia.org/wiki/Warren_Hinckle): 6 Mar 1970
 - [Hope, Bob](https://en.wikipedia.org/wiki/Bob_Hope): 13 Feb 1970
-- [Hoffman, Julius](https://en.wikipedia.org/wiki/Julius_Hoffman): 20 Feb 1970
+- [Hoffman, Abby](https://en.wikipedia.org/wiki/Abby_Hoffman): 24 Apr 1970
+- [Hoffman, Julius](https://en.wikipedia.org/wiki/Julius_Hoffman): 20 Feb 1970; 24 Apr 1970
 - [_Hollywood Reporter, The_](https://en.wikipedia.org/wiki/The_Hollywood_Reporter) magazine: 20 Mar 1970
 - [Hoyle, Fred](https://en.wikipedia.org/wiki/Fred_Hoyle): 20 Mar 1070
 - Humperdinck, Engelbert: see _The Engelbert Humperdinck Show_
@@ -122,9 +127,11 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
   
 ## K
 
+- _Kaleidoscope of the American Dream_: 24 Apr 1970
 - Kenner Products: 13 Mar 1970
 - Kidd, David: 20 Mar 1970
 - [King, Zalman](https://en.wikipedia.org/wiki/Zalman_King): 3 Apr 1970
+-  [Kirk, Claude, Jr.](https://en.wikipedia.org/wiki/Claude_R._Kirk_Jr.): 24 Apr 1970
 - [Klugman, Jack](https://en.wikipedia.org/wiki/Jack_Klugman): 3 Apr 1970
 - Koch, Richard K. (letter from): 6 Mar 1970
 
@@ -138,6 +145,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - Lester, Seeleg: 20 Mar 1970
 - [Lewis, Jerry](https://en.wikipedia.org/wiki/Jerry_Lewis): 13 Feb 1970
 - Liggett & Myers Tobacco Company (Liggett Group): 20 Feb 1970
+- [Litto, Frederick](https://exhibits.lib.ku.edu/exhibits/show/the-year-that-rocked-ku/vietnam-war-protest): 24 Apr 1970
 - [Long, Richard](https://en.wikipedia.org/wiki/Richard_Long_(actor)): 13 Feb 1970
 - Louise (girlfriend of HE): 13 Feb 1970
 - [_Love War, The_](https://en.wikipedia.org/wiki/The_Love_War) (ABC): 20 Mar 1970
@@ -146,10 +154,13 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 
 ## M
 
+
+- [Maddox, Lester, Sr.](https://en.wikipedia.org/wiki/Lester_Maddox): 24 Apr 1970
+- [Matthau, Walter](https://en.wikipedia.org/wiki/Walter_Matthau): 3 Apr 1970
+- Mattel, Inc.: 13 Mar 1970; 24 Apr 1970
+- [McCaffrey, Anne](https://en.wikipedia.org/wiki/Anne_McCaffrey): 24 Apr 1970
 - [McCowan, George](https://en.wikipedia.org/wiki/George_McCowan): 20 Mar 1970
 - [McQueen, Steve](https://en.wikipedia.org/wiki/Steve_McQueen): 3 Apr 1970
-- [Matthau, Walter](https://en.wikipedia.org/wiki/Walter_Matthau): 3 Apr 1970
-- Mattel, Inc.: 13 Mar 1970
 - [Mills, Juliet](https://en.wikipedia.org/wiki/Juliet_Mills): 13 Feb 1970
 - [Milne, Lorus J.](https://fr.wikipedia.org/wiki/Lorus_Milne) and Margery (nee Greene): 27 Feb 1970
 - [Mitchell, Scoey](https://en.wikipedia.org/wiki/Scoey_Mitchell): 3 Apr 1970
@@ -183,21 +194,25 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 ## R
 
 - [Randall, Tony](https://en.wikipedia.org/wiki/Tony_Randall): 3 Apr 1970
+- [Reagan, Ronald](https://en.wikipedia.org/wiki/Ronald_Reagan): 24 Apr 1970
 - [Rolling Stones, The](https://en.wikipedia.org/wiki/The_Rolling_Stones): 6 Mar 1970
 - [Russell, Nipsey](https://en.wikipedia.org/wiki/Nipsey_Russell): 3 Apr 1970
 
 ## S
 
 - [_Scanlan's Monthly_](https://en.wikipedia.org/wiki/Scanlan's_Monthly): 6 Mar 1970
+- Schultz, Reynolds: _see_ Shultz, Reynolds
 - Sears, Roebuck and Co.: 27 Feb 1970
 - [_Senses of Animals and Men, The_](https://archive.org/details/sensesofanimalsm0000miln) (Atheneum, 1962): 27 Feb 1970
 - sex appeal in advertising: 13 Mar 1970; 27 Mar 1970
+- [Shultz, Reynolds](https://en.wikipedia.org/wiki/Reynolds_Shultz): 24 Apr 1970
 - [_Silent Force, The_](https://en.wikipedia.org/wiki/The_Silent_Force_(TV_series)) (ABC): 3 Apr 1970
 - [Simon, Neil](https://en.wikipedia.org/wiki/Neil_Simon): 3 Apr 1970
 - Spelling, Aaron: _see_ Aaron Spelling Televsion
 - Spelling Productions: _see_ Aaron Spelling Television
 - Standard Oil Company of California (Chevron): 20 Feb 1970; 6 Mar 1970; 3 Apr 1970
 - [_Star!_](https://www.imdb.com/title/tt0063642) (Twentieth Century Fox): 20 Mar 1970
+- State University of New York at Buffalo: 24 Apr 1970
 - [Stern, Sol](https://en.wikipedia.org/wiki/Sol_Stern): 6 Mar 1970
 - [Steve and Eydie](https://en.wikipedia.org/wiki/Steve_and_Eydie): 6 Mar 1970
 - [Sullivan, Ed](https://en.wikipedia.org/wiki/Ed_Sullivan): 6 Mar 1970; see also _Ed Sullivan Show, The_
@@ -209,17 +224,21 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - _Toast of the Town, The_: see _Ed Sullivan Show, The_
 - [Thomas, Danny](https://en.wikipedia.org/wiki/Danny_Thomas): 3 Apr 1970
 - [Trueblood, Guerdon](https://en.wikipedia.org/wiki/Guerdon_Trueblood): 20 Mar 1970
+- [_2001: A Space Odyssey_](https://www.imdb.com/title/tt0062622) (Metro-Goldwyn-Mayer): 24 Apr 1970
 
 ## U
 
 - Union Oil Company of California (Unocal): 20 Feb 1970
 - Universal City Studios: 20 Feb 1970
 - University of California, Irvine: 6 Mar 1970
+- University of Kansas: 24 Apr 1970
+- University of New York: _see_ State University of New York
 
 ## V
 
 - Vallacher, Kitty: 6 Mar 1970
 - [_Variety_](https://en.wikipedia.org/wiki/Variety_(magazine)) magazine: 27 Mar 1970
+- [Velvel, Lawrence](https://exhibits.lib.ku.edu/exhibits/show/the-year-that-rocked-ku/vietnam-war-protest): 24 Apr 1970
 - "Video Voyeurism": 13 Mar 1970 (Part One); 27 Mar 1970 (Part Two)
 
 ## W
