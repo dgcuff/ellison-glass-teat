@@ -29,7 +29,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - [Bardacke, Frank](https://en.wikipedia.org/wiki/Frank_Bardacke): 6 Mar 1970
 - [Barefoot in the Park](https://en.wikipedia.org/wiki/Barefoot_in_the_Park_(TV_series)) (ABC): 3 Apr 1970
 - basketball: 13 Feb 1970
-- [_Battle of the Bulge, The_](https://www.imdb.com/title/tt0058947/) (dist. Warner Bros.): 20 Mar 1970
+- [_Battle of the Bulge, The_](https://www.imdb.com/title/tt0058947/) (distr. Warner Bros.): 20 Mar 1970
 - Beatles, The: 6 Mar 1970
 - blanket sleeper pyjamas for children ("Dr Dentons"): 13 Feb 1970
 - [Blass, Bill](https://en.wikipedia.org/wiki/Bill_Blass): 13 Mar 1970
@@ -57,7 +57,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 ## D
 
 - [Daley, Richard J.](https://en.wikipedia.org/wiki/Richard_J._Daley): 20 Feb 1970
-- [_Danny Thomas Hour, The_](https://en.wikipedia.org/wiki/The_Danny_Thomas_Hour) (as "_Danny Thomas Melodrama Century_") (NBC): 3 Apr 1970
+- [_Danny Thomas Hour, The_](https://en.wikipedia.org/wiki/The_Danny_Thomas_Hour) (NBC): 3 Apr 1970 (as "_Danny Thomas Melodrama Century_")
 - [Day, Doris](https://en.wikipedia.org/wiki/Doris_Day): 3 Apr 1970
 - _Day They Closed Down the Schools, The_: 13 Feb 1970
 - [_Dial Hot Line_](https://en.wikipedia.org/wiki/Dial_Hot_Line) made-for-TV movie (Universal, aired ABC): 3 Apr 1970
@@ -68,7 +68,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 
 - [_Ed Sullivan Show, The_](https://en.wikipedia.org/wiki/The_Ed_Sullivan_Show) (CBS): 6 Mar 1970; _see also_ Sullivan, Ed
 - [Edwards, Vince](https://en.wikipedia.org/wiki/Vince_Edwards): 3 Apr 1970
-- [_Engelbert Humperdinck Show, The_](https://www.imdb.com/title/tt0065291) (ATV, dist. ABC): 3 Apr 1970
+- [_Engelbert Humperdinck Show, The_](https://www.imdb.com/title/tt0065291) (ATV, bcast. ABC): 3 Apr 1970
 - [Evers, Jason](https://en.wikipedia.org/wiki/Jason_Evers): 3 Apr 1970
 
 ## F
@@ -77,7 +77,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - _First Tuesday_ (NBC): 13 Feb 1970
 - [Flammarion, Camille](https://en.wikipedia.org/wiki/Camille_Flammarion): 20 Mar 1970
 - [_Flying Nun, The_](https://en.wikipedia.org/wiki/The_Flying_Nun) (ABC): 3 Apr 1970
-- ["Fun and Games"](https://en.wikipedia.org/wiki/Fun_and_Games_(The_Outer_Limits))  (_The Outer Limits_ episode): 20 Mar 1970
+- ["Fun and Games"](https://en.wikipedia.org/wiki/Fun_and_Games_(The_Outer_Limits))  ([_The Outer Limits_](https://en.wikipedia.org/wiki/The_Outer_Limits_(1963_TV_series)) episode): 20 Mar 1970
 
 ## G
 
@@ -155,7 +155,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - [Mitchell, Scoey](https://en.wikipedia.org/wiki/Scoey_Mitchell): 3 Apr 1970
 - Montgomery Ward & Co: 27 Feb 1970 (as "Monkey Ward")
 - Murphy, William J.: 20 Feb 1970; 6 Mar 1970
-- [My Lai, South Vietnam](https://en.wikipedia.org/wiki/My_Lai_massacre): 13 Mar 1970
+- [My Lai mass-murder war crime](https://en.wikipedia.org/wiki/My_Lai_massacre): 13 Mar 1970
 
 ## N
 
