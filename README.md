@@ -1,4 +1,6 @@
-:warning: **Copyright 2025 by Douglas Cuff.** Do not reproduce. Just because the tecnology makes it _possible_ to make a copy does not make it _legal_ to make a copy.
+**Copyright 2025 by Douglas Cuff.** 
+
+:warning: Do not reproduce. Just because the technology makes it _possible_ to make a copy does not make it _legal_ or _okay_ to make a copy.
 
 # The Glass Teat by Harlan Ellison
 
@@ -236,3 +238,9 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 
 - [Zagor, Mike](https://www.imdb.com/name/nm0951870): 3 Apr 1970
 - _Zig Zag_ (pilot): 3 Apr 1970
+
+----
+
+:warning: Do not reproduce. Just because the technology makes it _possible_ to make a copy does not make it _legal_ or _okay_ to make a copy.
+
+**Copyright 2025 by Douglas Cuff.** 
