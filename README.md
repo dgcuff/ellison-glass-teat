@@ -107,7 +107,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - F-310 gasoline additive: 20 Feb 1970; 6 Mar 1970; 3 Apr 1970; 1 May 1970
 - [_Face the Nation_](https://en.wikipedia.org/wiki/Face_the_Nation) (CBS): 1 May 1970
 - Farrell, Larry D., letter from: 1 May 1970
-- _First Tuesday_ (NBC): 13 Feb 1970; 1 May 1970
+- [_First Tuesday_](https://www.imdb.com/title/tt1591598) (NBC): 13 Feb 1970; 1 May 1970
 - [Flammarion, Camille](https://en.wikipedia.org/wiki/Camille_Flammarion): 20 Mar 1970
 - [_Flying Nun, The_](https://en.wikipedia.org/wiki/The_Flying_Nun) (ABC): 3 Apr 1970
 - [Fontana, Dorothy](https://en.wikipedia.org/wiki/D._C._Fontana): 1 May 1970
