@@ -12,7 +12,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 ## A
 
 - Aaron Spelling Productions (Spelling Television): 20 Mar 1970
-- Agnew, Spiro: 20 Feb 1970; 27 Feb 1970; 3 Apr 1970
+- Agnew, Spiro: 20 Feb 1970; 27 Feb 1970; 3 Apr 1970; 15 May 1970
 - [Adams, Nick](https://en.wikipedia.org/wiki/Nick_Adams_(actor,_born_1931)): 20 Mar 1970
 - [_Archies, The_](https://en.wikipedia.org/wiki/The_Archie_Show) (CBS): 27 Feb 1970
 - [Allen, Irwin](https://en.wikipedia.org/wiki/Irwin_Allen): 3 Apr 1970
@@ -60,6 +60,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 ## C
 
 - Camus, Albert, pronunciation of surname: 1 May 1970
+- Canterbury, Robert (Brigadier General): 15 May 1970
 - Capitol Federal Savings and Loan (Capitol Federal Savings Bank): 24 Apr 1970 
 - [Carroll, Diahann](https://en.wikipedia.org/wiki/Diahann_Carroll): 3 Apr 1970
 - [Chapman, Leigh](https://en.wikipedia.org/wiki/Leigh_Chapman): 21 Mar 1969
@@ -73,6 +74,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Concerts West (Anschutz Entertainment Group): 8 May 1970
 - Cowsills, The: 3 Apr 1970
 - "creative typing": 1 May 1970
+- [Cronkite, Walter](https://en.wikipedia.org/wiki/Walter_Cronkite): 15 May 1970
 - [Culp, Bob](https://en.wikipedia.org/wiki/Robert_Culp): 1 May 1970
 
 ## D
@@ -89,6 +91,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Dr. Dentons brand blanket sleeper pyjamas: 13 Feb 1970
 - "Dogging It in the Great American Heartland": 8 May 1970
 - [Donlevy, Brian](https://en.wikipedia.org/wiki/Brian_Donlevy): 8 May 1970
+- draft board (United States Selective Service System): 15 May 1970
 
 ## E
 
@@ -109,6 +112,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Flying Nun, The_](https://en.wikipedia.org/wiki/The_Flying_Nun) (ABC): 3 Apr 1970
 - [Fontana, Dorothy](https://en.wikipedia.org/wiki/D._C._Fontana): 1 May 1970
 - Fort Worth, Texas: 8 May 1970
+- [Frost, David](https://en.wikipedia.org/wiki/David_Frost): 15 May 1970
 - ["Fun and Games"](https://en.wikipedia.org/wiki/Fun_and_Games_(The_Outer_Limits))  ([_The Outer Limits_](https://en.wikipedia.org/wiki/The_Outer_Limits_(1963_TV_series)) episode): 20 Mar 1970
 
 ## G
@@ -168,6 +172,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Kaufman, Bobby](https://en.wikipedia.org/wiki/Robert_Kaufman): 1 May 1970
 - [Kazan, Elia](https://en.wikipedia.org/wiki/Elia_Kazan): 1 May 1970
 - Kenner Products: 13 Mar 1970
+- Kent State shootings: 15 May 1970
 - Kidd, David: 20 Mar 1970
 - [King, Zalman](https://en.wikipedia.org/wiki/Zalman_King): 3 Apr 1970
 -  [Kirk, Claude, Jr.](https://en.wikipedia.org/wiki/Claude_R._Kirk_Jr.): 24 Apr 1970
@@ -211,10 +216,11 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [McQueen, Steve](https://en.wikipedia.org/wiki/Steve_McQueen): 3 Apr 1970
 - [Mills, Juliet](https://en.wikipedia.org/wiki/Juliet_Mills): 13 Feb 1970
 - [Milne, Lorus J.](https://fr.wikipedia.org/wiki/Lorus_Milne) and Margery (nee Greene): 27 Feb 1970
+- Mitchell, John N. (U.S. Attorney General): 15 May 1970
 - [Mitchell, Scoey](https://en.wikipedia.org/wiki/Scoey_Mitchell): 3 Apr 1970
 - Montgomery Ward & Co: 27 Feb 1970 (as "Monkey Ward")
 - Murphy, William J.: 20 Feb 1970; 6 Mar 1970
-- [My Lai mass-murder war crime](https://en.wikipedia.org/wiki/My_Lai_massacre): 13 Mar 1970
+- [My Lai mass-murder war crime](https://en.wikipedia.org/wiki/My_Lai_massacre): 13 Mar 1970; 15 May 1970
 
 ## N
 
@@ -222,12 +228,13 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Negron, Chuck: 8 May 1970
 - New Orleans, Louisiana: 8 May 1970
 - [Nimoy, Leonard](https://en.wikipedia.org/wiki/Leonard_Nimoy): 1 May 1970
-- Nixon, Richard: 20 Feb 1970; 27 Feb 1970; 6 Mar 1970
+- Nixon, Richard: 20 Feb 1970; 27 Feb 1970; 6 Mar 1970; 15 May 1970
 
 ## O
 
 - Oakland Seven, the: 6 Mar 1970
 - [_Odd Couple, The_](https://en.wikipedia.org/wiki/The_Odd_Couple_(1970_TV_series)) (ABC): 3 Apr 1970
+- Ohio National Guard: 15 May 1970
 - Ohio State University: 15 May 1970
 - [Oldenbourg, Zoe](https://en.wikipedia.org/wiki/Zo%C3%A9_Oldenbourg): 27 Feb 1970
 - [_Outer Limits, The_](https://en.wikipedia.org/wiki/The_Outer_Limits_(1963_TV_series)) (ABC): 20 Mar 1970
@@ -250,7 +257,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 ## R
 
 - [Randall, Tony](https://en.wikipedia.org/wiki/Tony_Randall): 3 Apr 1970
-- Reagan, Ronald: 24 Apr 1970
+- Reagan, Ronald: 24 Apr 1970; 15 May 1970
 - [_Ripcord_](https://en.wikipedia.org/wiki/Ripcord_(TV_series)) (syndication): 1 May 1970
 - Rodman, Howard, Sr.: 1 May 1970
 - [Rodriguez, Percy](https://en.wikipedia.org/wiki/Percy_Rodriguez): 1 May 1970
@@ -264,6 +271,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Schermie, Joe: 8 May 1970
 - Schultz, Reynolds: _see_ Shultz, Reynolds
 - Sears, Roebuck and Co.: 27 Feb 1970
+- Selective Service System: _see_ draft board
 - [Semple, Lorenzo, Jr.](https://en.wikipedia.org/wiki/Lorenzo_Semple_Jr.): 1 May 1970
 - [_Senses of Animals and Men, The_](https://archive.org/details/sensesofanimalsm0000miln) (Atheneum, 1962): 27 Feb 1970
 - [_Sesame Street_](https://en.wikipedia.org/wiki/Sesame_Street) (PBS): 8 May 1970
@@ -273,6 +281,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Silent Force, The_](https://en.wikipedia.org/wiki/The_Silent_Force_(TV_series)) (ABC): 3 Apr 1970
 - [Simmons, Richard Alan](https://en.wikipedia.org/wiki/Richard_Alan_Simmons): 1 May 1970
 - [Simon, Neil](https://en.wikipedia.org/wiki/Neil_Simon): 3 Apr 1970
+- [Smith, Howard K.](https://en.wikipedia.org/wiki/Howard_K._Smith): 15 May 1970
 - Sneed, Floyd: 8 May 1970
 - [Specht, Bob](https://www.imdb.com/name/nm0817426/): 1 May 1970
 - Spelling, Aaron: _see_ Aaron Spelling Televsion
@@ -303,7 +312,9 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Universal City Studios: 20 Feb 1970
 - University of California, Irvine: 6 Mar 1970
 - University of Kansas: 24 Apr 1970
+- Univerity of Kent State: _see_ Kent State shootings
 - University of New York: _see_ State University of New York
+- University of Ohio: _see_ Ohio State University
 
 ## V
 
