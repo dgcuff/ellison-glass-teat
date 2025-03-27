@@ -4,7 +4,7 @@
 
 # The Glass Teat by Harlan Ellison
 
-An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles Free Press_](https://en.wikipedia.org/wiki/Los_Angeles_Free_Press) underground newspaper. These columns were later published in book form in two volumes: [_The Glass Teat_](https://en.wikipedia.org/wiki/The_Glass_Teat) (1970) and _The Other Glass Teat_ (1975).
+An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV column "The Glass Teat" for the [_Los Angeles Free Press_](https://en.wikipedia.org/wiki/Los_Angeles_Free_Press) underground newspaper. These columns were later published in book form in two volumes: [_The Glass Teat_](https://en.wikipedia.org/wiki/The_Glass_Teat) (1970) and _The Other Glass Teat_ (1975).
 
 > This index is a work in progress.
 
@@ -12,17 +12,19 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 ## A
 
 - Aaron Spelling Productions (Spelling Television): 20 Mar 1970
-- [Agnew, Spiro](https://en.wikipedia.org/wiki/Spiro_Agnew): 20 Feb 1970; 27 Feb 1970; 3 Apr 1970
+- Agnew, Spiro: 20 Feb 1970; 27 Feb 1970; 3 Apr 1970
 - [Adams, Nick](https://en.wikipedia.org/wiki/Nick_Adams_(actor,_born_1931)): 20 Mar 1970
 - [_Archies, The_](https://en.wikipedia.org/wiki/The_Archie_Show) (CBS): 27 Feb 1970
 - [Allen, Irwin](https://en.wikipedia.org/wiki/Irwin_Allen): 3 Apr 1970
 - [Allen, Woody](https://en.wikipedia.org/wiki/Woody_Allen): 27 Mar 1970
+- Allsup, Michael: 8 May 1970
 - [Altamont Free Concert](https://en.wikipedia.org/wiki/Altamont_Free_Concert): 6 Mar 1970; 24 Apr 1970
 - [Amory, Cleveland](https://en.wikipedia.org/wiki/Cleveland_Amory): 1 May 1970
 - Anchor Savings and Loan: 24 Apr 1970
 - [Anhalt, Edward](https://en.wikipedia.org/wiki/Edward_Anhalt): 1 May 1970 (as "Edward Amhalt")
 - [_Astounding Science Fiction_ ](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) (_Analog Science Fiction and Fact_) magazine: 20 Mar 1970
 - ["Arena"](https://en.wikipedia.org/wiki/Arena_(short_story)) (short story by Fredric Brown): 20 Mar 1970
+- Austin, Texax: 8 May 1970
 - _Awake and Sing!_: 24 Apr 1970
 
 ## B
@@ -43,6 +45,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - [Bloch, John](https://www.imdb.com/name/nm0088624): 1 May 1970
 - [Bonaduce, Joseph](https://www.imdb.com/name/nm0093699): 3 Apr 1970
 - [_Bonanza_](https://en.wikipedia.org/wiki/Bonanza) (NBC): 1 May 1970
+- [Bourbon Orleans Hotel](https://www.bourbonorleans.com/): 8 May 1970
 - Boyles, Michael, letter from: 6 Mar 1970
 - [_Brady Bunch, The_](https://en.wikipedia.org/wiki/The_Brady_Bunch) (ABC): 1 May 1970
 - Brenizer, Mark, letter from: 6 Mar 1970
@@ -51,7 +54,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - [Brown, Fredric](https://en.wikipedia.org/wiki/Fredric_Brown): 20 Mar 1970
 - [Bryant, Edward](https://en.wikipedia.org/wiki/Edward_Bryant): 20 Feb 1970
 - [_Bullitt_](https://en.wikipedia.org/wiki/Bullitt) (Warner Bros.): 3 Apr 1970
-- [Bunker, Ellsworth](https://en.wikipedia.org/wiki/Ellsworth_Bunker): 3 Apr 1970
+- Bunker, Ellsworth: 3 Apr 1970
 - Burton, Pauline, letter from: 6 Mar 1970
 
 ## C
@@ -67,13 +70,15 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - [Clarke, Arthur C.](https://en.wikipedia.org/wiki/Arthur_C._Clarke): 24 Apr 1970
 - [Cobb, Lee J.](https://en.wikipedia.org/wiki/Lee_J._Cobb): 3 Apr 1970
 - "Concerned Viewer" (pseudonym), letter from: 1 May 1970
+- Concerts West (Anschutz Entertainment Group): 8 May 1970
 - Cowsills, The: 3 Apr 1970
 - "creative typing": 1 May 1970
 - [Culp, Bob](https://en.wikipedia.org/wiki/Robert_Culp): 1 May 1970
 
 ## D
 
-- [Daley, Richard J.](https://en.wikipedia.org/wiki/Richard_J._Daley): 20 Feb 1970
+- Daley, Richard J.: 20 Feb 1970
+- Dallas, Texas: 8 May 1970
 - [_Danny Thomas Hour, The_](https://en.wikipedia.org/wiki/The_Danny_Thomas_Hour) (NBC): 3 Apr 1970 (as "_Danny Thomas Melodrama Century_")
 - [Day, Doris](https://en.wikipedia.org/wiki/Doris_Day): 3 Apr 1970
 - _Day They Closed Down the Schools, The_: 13 Feb 1970
@@ -82,9 +87,12 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - [Dickinson, Angie](https://en.wikipedia.org/wiki/Angie_Dickinson): 20 Mar 1970
 - [Dickson, Gordon](https://en.wikipedia.org/wiki/Gordon_R._Dickson): 24 Apr 1970
 - Dr. Dentons brand blanket sleeper pyjamas: 13 Feb 1970
+- "Dogging It in the Great American Heartland": 8 May 1970
+- [Donlevy, Brian](https://en.wikipedia.org/wiki/Brian_Donlevy): 8 May 1970
 
 ## E
 
+- [_Edge of Night, The_](https://en.wikipedia.org/wiki/The_Edge_of_Night) (CBS): 8 May 1970
 - [_Ed Sullivan Show, The_](https://en.wikipedia.org/wiki/The_Ed_Sullivan_Show) (CBS): 6 Mar 1970; _see also_ Sullivan, Ed
 - [Edwards, Vince](https://en.wikipedia.org/wiki/Vince_Edwards): 3 Apr 1970
 - [_Engelbert Humperdinck Show, The_](https://www.imdb.com/title/tt0065291) (ATV, bcast. ABC): 3 Apr 1970
@@ -100,6 +108,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - [Flammarion, Camille](https://en.wikipedia.org/wiki/Camille_Flammarion): 20 Mar 1970
 - [_Flying Nun, The_](https://en.wikipedia.org/wiki/The_Flying_Nun) (ABC): 3 Apr 1970
 - [Fontana, Dorothy](https://en.wikipedia.org/wiki/D._C._Fontana): 1 May 1970
+- Fort Worth, Texas: 8 May 1970
 - ["Fun and Games"](https://en.wikipedia.org/wiki/Fun_and_Games_(The_Outer_Limits))  ([_The Outer Limits_](https://en.wikipedia.org/wiki/The_Outer_Limits_(1963_TV_series)) episode): 20 Mar 1970
 
 ## G
@@ -117,6 +126,8 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - [Gorme, Eydie](https://en.wikipedia.org/wiki/Eydie_Gorm%C3%A9): 6 Mar 1970
 - [_Green Acres_](https://en.wikipedia.org/wiki/Green_Acres) (CBS): 1 May 1970
 - Greene, Margery: _see_ Milne, Lorus J. and Margery
+- Greenspoon, Jimmy: 8 May 1970
+- Gregg, Joe: 8 May 1970
 - [Gunn, James E.](https://en.wikipedia.org/wiki/James_E._Gunn): 24 Apr 1970
 
 ## H
@@ -134,10 +145,12 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - [Hoffman, Julius](https://en.wikipedia.org/wiki/Julius_Hoffman): 20 Feb 1970; 24 Apr 1970
 - [_Hollywood Reporter, The_](https://en.wikipedia.org/wiki/The_Hollywood_Reporter) magazine: 20 Mar 1970
 - House Un-American Activities Committee: 1 May 1970
+- Houston, Texas: 8 May 1970
 - [Hoyle, Fred](https://en.wikipedia.org/wiki/Fred_Hoyle): 20 Mar 1070
 - HUAC: _see_ House Un-American Activities Committee
 - Humperdinck, Engelbert: see _The Engelbert Humperdinck Show_
 - [Hunter, Meredith](https://en.wikipedia.org/wiki/Killing_of_Meredith_Hunter): 6 Mar 1970
+- Hutton, Danny: 8 May 1970
 
 ## I
 
@@ -177,13 +190,14 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - Louise (girlfriend of HE): 13 Feb 1970
 - [_Love War, The_](https://en.wikipedia.org/wiki/The_Love_War) (ABC): 20 Mar 1970; 1 May 1970
 - Lovin' Spoonful, The: 1 May 1970
+- Lubbock, Texas: 8 May 1970
 - Lucks (or Luck?), Louise, letter from: 3 Apr 1970
 - [_Lucy Show, The_](https://en.wikipedia.org/wiki/The_Lucy_Show) (CBS): 13 Feb 1970; 1 May 1970
 
 ## M
 
 
-- [Maddox, Lester, Sr.](https://en.wikipedia.org/wiki/Lester_Maddox): 24 Apr 1970
+- Maddox, Lester, Sr.: 24 Apr 1970
 - [_Man from U.N.C.L.E., The_](https://en.wikipedia.org/wiki/The_Man_from_U.N.C.L.E.) (NBC): 1 May 1970
 - [Manson, Charlie](https://en.wikipedia.org/wiki/Charles_Manson): 1 May 1970
 - [Matthau, Walter](https://en.wikipedia.org/wiki/Walter_Matthau): 3 Apr 1970
@@ -192,6 +206,8 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 - [McCaffrey, Anne](https://en.wikipedia.org/wiki/Anne_McCaffrey): 24 Apr 1970
 - McCarthy, Joseph: 1 May 1970
 - [McCowan, George](https://en.wikipedia.org/wiki/George_McCowan): 20 Mar 1970
+- McLuhan, Marshall: 8 May 1970
+- McPike, Gary: 8 May 1970
 - [McQueen, Steve](https://en.wikipedia.org/wiki/Steve_McQueen): 3 Apr 1970
 - [Mills, Juliet](https://en.wikipedia.org/wiki/Juliet_Mills): 13 Feb 1970
 - [Milne, Lorus J.](https://fr.wikipedia.org/wiki/Lorus_Milne) and Margery (nee Greene): 27 Feb 1970
@@ -203,13 +219,16 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 ## N
 
 - [_Nanny and the Professor_](https://en.wikipedia.org/wiki/Nanny_and_the_Professor) (ABC): 13 Feb 1970
+- Negron, Chuck: 8 May 1970
+- New Orleans, Louisiana: 8 May 1970
 - [Nimoy, Leonard](https://en.wikipedia.org/wiki/Leonard_Nimoy): 1 May 1970
-- [Nixon, Richard](https://en.wikipedia.org/wiki/Richard_Nixon): 20 Feb 1970; 27 Feb 1970; 6 Mar 1970
+- Nixon, Richard: 20 Feb 1970; 27 Feb 1970; 6 Mar 1970
 
 ## O
 
 - Oakland Seven, the: 6 Mar 1970
 - [_Odd Couple, The_](https://en.wikipedia.org/wiki/The_Odd_Couple_(1970_TV_series)) (ABC): 3 Apr 1970
+- Ohio State University: 15 May 1970
 - [Oldenbourg, Zoe](https://en.wikipedia.org/wiki/Zo%C3%A9_Oldenbourg): 27 Feb 1970
 - [_Outer Limits, The_](https://en.wikipedia.org/wiki/The_Outer_Limits_(1963_TV_series)) (ABC): 20 Mar 1970
 
@@ -231,7 +250,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 ## R
 
 - [Randall, Tony](https://en.wikipedia.org/wiki/Tony_Randall): 3 Apr 1970
-- [Reagan, Ronald](https://en.wikipedia.org/wiki/Ronald_Reagan): 24 Apr 1970
+- Reagan, Ronald: 24 Apr 1970
 - [_Ripcord_](https://en.wikipedia.org/wiki/Ripcord_(TV_series)) (syndication): 1 May 1970
 - Rodman, Howard, Sr.: 1 May 1970
 - [Rodriguez, Percy](https://en.wikipedia.org/wiki/Percy_Rodriguez): 1 May 1970
@@ -242,15 +261,19 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 
 - [_Satan Bug, The_](https://www.imdb.com/title/tt0059678) (United Artists): 1 May 1970
 - [_Scanlan's Monthly_](https://en.wikipedia.org/wiki/Scanlan's_Monthly) magazine: 6 Mar 1970
+- Schermie, Joe: 8 May 1970
 - Schultz, Reynolds: _see_ Shultz, Reynolds
 - Sears, Roebuck and Co.: 27 Feb 1970
 - [Semple, Lorenzo, Jr.](https://en.wikipedia.org/wiki/Lorenzo_Semple_Jr.): 1 May 1970
 - [_Senses of Animals and Men, The_](https://archive.org/details/sensesofanimalsm0000miln) (Atheneum, 1962): 27 Feb 1970
+- [_Sesame Street_](https://en.wikipedia.org/wiki/Sesame_Street) (PBS): 8 May 1970
 - sex appeal in advertising: 13 Mar 1970; 27 Mar 1970
+- _Show_ magazine: 8 May 1970
 - [Shultz, Reynolds](https://en.wikipedia.org/wiki/Reynolds_Shultz): 24 Apr 1970
 - [_Silent Force, The_](https://en.wikipedia.org/wiki/The_Silent_Force_(TV_series)) (ABC): 3 Apr 1970
 - [Simmons, Richard Alan](https://en.wikipedia.org/wiki/Richard_Alan_Simmons): 1 May 1970
 - [Simon, Neil](https://en.wikipedia.org/wiki/Neil_Simon): 3 Apr 1970
+- Sneed, Floyd: 8 May 1970
 - [Specht, Bob](https://www.imdb.com/name/nm0817426/): 1 May 1970
 - Spelling, Aaron: _see_ Aaron Spelling Televsion
 - Spelling Productions: _see_ Aaron Spelling Television
@@ -267,6 +290,7 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 
 - _Toast of the Town, The_: see _Ed Sullivan Show, The_
 - [Thomas, Danny](https://en.wikipedia.org/wiki/Danny_Thomas): 3 Apr 1970
+- Three Dog Night: 8 May 1970
 - [Trueblood, Guerdon](https://en.wikipedia.org/wiki/Guerdon_Trueblood): 20 Mar 1970; 1 May 1970
 - [_TV Guide_](https://en.wikipedia.org/wiki/TV_Guide_(magazine)) magazine: 1 May 1970
 - [_21st Century, The_](https://en.wikipedia.org/wiki/The_Twentieth_Century) (CBS): 1 May 1970
@@ -291,7 +315,9 @@ An index for Harlan Ellison's TV column "The Glass Teat" for the [_Los Angeles F
 
 ## W
 
+- [Warehouse, the](https://en.wikipedia.org/wiki/The_Warehouse_(New_Orleans)), New Orleans music venue: 8 May 1970
 - [Warwick, Dionne](https://en.wikipedia.org/wiki/Dionne_Warwick): 6 Mar 1970
+- Wells, Cory: 8 May 1970
 - WGAw: _see_ Writers Guild of America West
 - [Wolfe, Bernard](https://en.wikipedia.org/wiki/Bernard_Wolfe): 1 May 1970
 - [Woodstock Nation](https://en.wikipedia.org/wiki/Woodstock_Nation): 6 Mar 1970
