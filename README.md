@@ -12,7 +12,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 ## A
 
 - Aaron Spelling Productions (Spelling Television): 20 Mar 1970
-- Agnew, Spiro: 20 Feb 1970; 27 Feb 1970; 3 Apr 1970; 15 May 1970
+- Agnew, Spiro: 20 Feb 1970; 27 Feb 1970; 3 Apr 1970; 15 May 1970; 22 May 1970
 - [Adams, Nick](https://en.wikipedia.org/wiki/Nick_Adams_(actor,_born_1931)): 20 Mar 1970
 - [_Archies, The_](https://en.wikipedia.org/wiki/The_Archie_Show) (CBS): 27 Feb 1970
 - [Allen, Irwin](https://en.wikipedia.org/wiki/Irwin_Allen): 3 Apr 1970
@@ -24,6 +24,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Anhalt, Edward](https://en.wikipedia.org/wiki/Edward_Anhalt): 1 May 1970 (as "Edward Amhalt")
 - [_Astounding Science Fiction_ ](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) (_Analog Science Fiction and Fact_) magazine: 20 Mar 1970
 - ["Arena"](https://en.wikipedia.org/wiki/Arena_(short_story)) (short story by Fredric Brown): 20 Mar 1970
+- [Augusta riot](https://en.wikipedia.org/wiki/1970_Augusta_riot): 22 May 1970
 - Austin, Texax: 8 May 1970
 - _Awake and Sing!_: 24 Apr 1970
 
@@ -43,6 +44,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Black, John D.F.](https://en.wikipedia.org/wiki/John_D._F._Black): 1 May 1970
 - [Blass, Bill](https://en.wikipedia.org/wiki/Bill_Blass): 13 Mar 1970
 - [Bloch, John](https://www.imdb.com/name/nm0088624): 1 May 1970
+- Bohlander, Tom, interviewed in _The New York Times_: 22 May 1970
 - [Bonaduce, Joseph](https://www.imdb.com/name/nm0093699): 3 Apr 1970
 - [_Bonanza_](https://en.wikipedia.org/wiki/Bonanza) (NBC): 1 May 1970
 - [Bourbon Orleans Hotel](https://www.bourbonorleans.com/): 8 May 1970
@@ -59,7 +61,9 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 ## C
 
+- [Cambodian incursion by the United States](https://en.wikipedia.org/wiki/Cambodian_campaign): 22 May 1970
 - Camus, Albert, pronunciation of surname: 1 May 1970
+- [Canada as a destination for American draft evaders](https://en.wikipedia.org/wiki/Vietnam_War_resisters_in_Canada): 22 May 1970
 - Canterbury, Robert (Brigadier General): 15 May 1970
 - Capitol Federal Savings and Loan (Capitol Federal Savings Bank): 24 Apr 1970 
 - [Carroll, Diahann](https://en.wikipedia.org/wiki/Diahann_Carroll): 3 Apr 1970
@@ -70,8 +74,10 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Cimmaron Strip_](https://en.wikipedia.org/wiki/Cimarron_Strip) (CBS): 1 May 1970
 - [Clarke, Arthur C.](https://en.wikipedia.org/wiki/Arthur_C._Clarke): 24 Apr 1970
 - [Cobb, Lee J.](https://en.wikipedia.org/wiki/Lee_J._Cobb): 3 Apr 1970
+- "Common Man, The": 22 May 1970 ("Part III" - annotation by reader Harold Conrad)
 - "Concerned Viewer" (pseudonym), letter from: 1 May 1970
 - Concerts West (Anschutz Entertainment Group): 8 May 1970
+- Conrad, Harold, letter from: 22 May 1970
 - Cowsills, The: 3 Apr 1970
 - "creative typing": 1 May 1970
 - [Cronkite, Walter](https://en.wikipedia.org/wiki/Walter_Cronkite): 15 May 1970
@@ -104,7 +110,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 ## F
 
-- F-310 gasoline additive: 20 Feb 1970; 6 Mar 1970; 3 Apr 1970; 1 May 1970
+- F-310 gasoline additive: 20 Feb 1970; 6 Mar 1970; 3 Apr 1970; 1 May 1970; 22 May 1970
 - [_Face the Nation_](https://en.wikipedia.org/wiki/Face_the_Nation) (CBS): 1 May 1970
 - Farrell, Larry D., letter from: 1 May 1970
 - [_First Tuesday_](https://www.imdb.com/title/tt1591598) (NBC): 13 Feb 1970; 1 May 1970
@@ -120,10 +126,12 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Galesburg, Illinois: 13 Feb 1970
 - gasoline additive: _see_ F-310 gasoline additive
 - [Genovese, Catherine "Kitty" Susan](https://en.wikipedia.org/wiki/Murder_of_Kitty_Genovese): 6 Mar 1970; 1 May 1970
+- Georgia Black citizens killed: _see_ Augusta riot
 - [_Ghost & Mrs. Muir, The_](https://en.wikipedia.org/wiki/The_Ghost_%26_Mrs._Muir_(TV_series)) (NBC, ABC): 3 Apr 1970
 - [_Gilligan's Island_](https://en.wikipedia.org/wiki/Gilligan%27s_Island) (CBS): 13 Feb 1970
 - girlfriends of Harlan Ellison: _see_ Chapman, Leigh; Louise
 - [Gleason, Jackie](https://en.wikipedia.org/wiki/Jackie_Gleason): 6 Mar 1970
+- Glicksohn, Mike, letter from: 22 May 1970
 - [_Gomer Pyle - USMC_](https://en.wikipedia.org/wiki/Gomer_Pyle_%E2%80%93_USMC) (CBS): 13 Feb 1970
 - [_Goodbye, Mr. Chips_](https://www.imdb.com/title/tt0064382) (Metro-Goldwyn-Mayer): 20 Mar 1970
 - [_Good Guys, The_](https://en.wikipedia.org/wiki/The_Good_Guys_(1968_TV_series)) (CBS): 13 Feb 1970
@@ -137,6 +145,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 ## H
 
 - [Hamilton, George](https://en.wikipedia.org/wiki/George_Hamilton_(actor)): 13 Feb 1970; 3 Apr 1970
+- [Hard Hat Riot](https://en.wikipedia.org/wiki/Hard_Hat_Riot): 22 May 1970
 - [_Harold Robbins The Survivors_](https://en.wikipedia.org/wiki/Harold_Robbins%27_The_Survivors) (ABC): 13 Feb 1970
 - Hasbro, Inc.: _see_ Kenner Products
 - [_Hello, Dolly!_](https://www.imdb.com/title/tt0064418/reference/?ref_=fn_all_ttl_1) (Twentieth Century Fox): 20 Mar 1970
@@ -144,7 +153,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Here Comes the Brides_](https://en.wikipedia.org/wiki/Here_Come_the_Brides) (ABC): 3 Apr 1970
 - [_High Chaparral, The_](https://en.wikipedia.org/wiki/The_High_Chaparral) (NBC): 1 May 1970
 - [Hinckle, Warren, III](https://en.wikipedia.org/wiki/Warren_Hinckle): 6 Mar 1970
-- [Hope, Bob](https://en.wikipedia.org/wiki/Bob_Hope): 13 Feb 1970
+- [Hope, Bob](https://en.wikipedia.org/wiki/Bob_Hope): 13 Feb 1970; 22 May 1970
 - [Hoffman, Abby](https://en.wikipedia.org/wiki/Abby_Hoffman): 24 Apr 1970
 - [Hoffman, Julius](https://en.wikipedia.org/wiki/Julius_Hoffman): 20 Feb 1970; 24 Apr 1970
 - [_Hollywood Reporter, The_](https://en.wikipedia.org/wiki/The_Hollywood_Reporter) magazine: 20 Mar 1970
@@ -172,7 +181,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Kaufman, Bobby](https://en.wikipedia.org/wiki/Robert_Kaufman): 1 May 1970
 - [Kazan, Elia](https://en.wikipedia.org/wiki/Elia_Kazan): 1 May 1970
 - Kenner Products: 13 Mar 1970
-- Kent State shootings: 15 May 1970
+- Kent State shootings: 15 May 1970; 22 May 1970
 - Kidd, David: 20 Mar 1970
 - [King, Zalman](https://en.wikipedia.org/wiki/Zalman_King): 3 Apr 1970
 -  [Kirk, Claude, Jr.](https://en.wikipedia.org/wiki/Claude_R._Kirk_Jr.): 24 Apr 1970
@@ -211,9 +220,10 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [McCaffrey, Anne](https://en.wikipedia.org/wiki/Anne_McCaffrey): 24 Apr 1970
 - McCarthy, Joseph: 1 May 1970
 - [McCowan, George](https://en.wikipedia.org/wiki/George_McCowan): 20 Mar 1970
-- McLuhan, Marshall: 8 May 1970
+- McLuhan, Marshall: 8 May 1970; 22 May 1970
 - McPike, Gary: 8 May 1970
 - [McQueen, Steve](https://en.wikipedia.org/wiki/Steve_McQueen): 3 Apr 1970
+- Miller, Dale, interviewed in _The New York Times_: 22 May 1970
 - [Mills, Juliet](https://en.wikipedia.org/wiki/Juliet_Mills): 13 Feb 1970
 - [Milne, Lorus J.](https://fr.wikipedia.org/wiki/Lorus_Milne) and Margery (nee Greene): 27 Feb 1970
 - Mitchell, John N. (U.S. Attorney General): 15 May 1970
@@ -258,10 +268,13 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 - [Randall, Tony](https://en.wikipedia.org/wiki/Tony_Randall): 3 Apr 1970
 - Reagan, Ronald: 24 Apr 1970; 15 May 1970
+- Richards, Dick, interviewed in _The New York Times_: 22 May 1970
 - [_Ripcord_](https://en.wikipedia.org/wiki/Ripcord_(TV_series)) (syndication): 1 May 1970
+- Rockwell, Norman: 22 May 1970
 - Rodman, Howard, Sr.: 1 May 1970
 - [Rodriguez, Percy](https://en.wikipedia.org/wiki/Percy_Rodriguez): 1 May 1970
 - [Rolling Stones, The](https://en.wikipedia.org/wiki/The_Rolling_Stones): 6 Mar 1970
+- Ruble, Don, interviewed in _The New York Times_: 22 May 1970
 - [Russell, Nipsey](https://en.wikipedia.org/wiki/Nipsey_Russell): 3 Apr 1970
 
 ## S
@@ -281,7 +294,8 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Silent Force, The_](https://en.wikipedia.org/wiki/The_Silent_Force_(TV_series)) (ABC): 3 Apr 1970
 - [Simmons, Richard Alan](https://en.wikipedia.org/wiki/Richard_Alan_Simmons): 1 May 1970
 - [Simon, Neil](https://en.wikipedia.org/wiki/Neil_Simon): 3 Apr 1970
-- [Smith, Howard K.](https://en.wikipedia.org/wiki/Howard_K._Smith): 15 May 1970
+- [_60 Minutes_](https://en.wikipedia.org/wiki/60_Minutes) (CBS): 22 May 1970
+- [Smith, Howard K.](https://en.wikipedia.org/wiki/Howard_K._Smith): 15 May 1970; 22 May 1970
 - Sneed, Floyd: 8 May 1970
 - [Specht, Bob](https://www.imdb.com/name/nm0817426/): 1 May 1970
 - Spelling, Aaron: _see_ Aaron Spelling Televsion
@@ -294,14 +308,16 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Sullivan, Ed](https://en.wikipedia.org/wiki/Ed_Sullivan): 6 Mar 1970; see also _Ed Sullivan Show, The_
 - Sunset Strip, West Hollywood, California: 6 Mar 1970
 - _Survivors, The_: see _Harold Robbins' The Survivors_
+- [Susskind, David](https://en.wikipedia.org/wiki/David_Susskind): 22 May 1970
 
 ## T
 
+- Texaco lead-free gasoline: 22 May 1970
 - _Toast of the Town, The_: see _Ed Sullivan Show, The_
 - [Thomas, Danny](https://en.wikipedia.org/wiki/Danny_Thomas): 3 Apr 1970
 - Three Dog Night: 8 May 1970
 - [Trueblood, Guerdon](https://en.wikipedia.org/wiki/Guerdon_Trueblood): 20 Mar 1970; 1 May 1970
-- [_TV Guide_](https://en.wikipedia.org/wiki/TV_Guide_(magazine)) magazine: 1 May 1970
+- [_TV Guide_](https://en.wikipedia.org/wiki/TV_Guide_(magazine)) magazine: 1 May 1970; 22 May 1970
 - [_21st Century, The_](https://en.wikipedia.org/wiki/The_Twentieth_Century) (CBS): 1 May 1970
 - [_2001: A Space Odyssey_](https://www.imdb.com/title/tt0062622) (Metro-Goldwyn-Mayer): 24 Apr 1970
 
