@@ -6,7 +6,7 @@
 
 An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV column "The Glass Teat" for the [_Los Angeles Free Press_](https://en.wikipedia.org/wiki/Los_Angeles_Free_Press) underground newspaper. These columns were later published in book form in two volumes: [_The Glass Teat_](https://en.wikipedia.org/wiki/The_Glass_Teat) (1970) and _The Other Glass Teat_ (1975).
 
-> This index is a work in progress.
+> This index is a work in progress. Nearly all entries below are from _The Other Glass Teat_.
 
 
 ## A
@@ -307,6 +307,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Steve and Eydie](https://en.wikipedia.org/wiki/Steve_and_Eydie): 6 Mar 1970
 - [Sullivan, Ed](https://en.wikipedia.org/wiki/Ed_Sullivan): 6 Mar 1970; see also _Ed Sullivan Show, The_
 - Sunset Strip, West Hollywood, California: 6 Mar 1970
+- SUNY: _see_ State University of New York
 - _Survivors, The_: see _Harold Robbins' The Survivors_
 - [Susskind, David](https://en.wikipedia.org/wiki/David_Susskind): 22 May 1970
 
