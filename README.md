@@ -8,11 +8,12 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 > This index is a work in progress. Nearly all entries below are from _The Other Glass Teat_.
 
+[A](#A) • [B](#B) • [C](#C) • [D](#D) • [E](#E) • [F](#F) • [G](#G) • [H](#H) • [I](#I) • [K](#K) • [L](#L) • [M](#M) • [N](#N) • [P](#P) • [Q](#Q) • [R](#R) • [S](#S) • [T](#T) • [V](#V) • [Y](#Y) • [Z](#Z)
 
 ## A
 
 - Aaron Spelling Productions (Spelling Television): 20 Mar 1970
-- Agnew, Spiro: 20 Feb 1970; 27 Feb 1970; 3 Apr 1970; 15 May 1970; 22 May 1970
+- Agnew, Spiro: 20 Feb 1970; 27 Feb 1970; 3 Apr 1970; 15 May 1970; 22 May 1970; 29 May 1970
 - [Adams, Nick](https://en.wikipedia.org/wiki/Nick_Adams_(actor,_born_1931)): 20 Mar 1970
 - [_Archies, The_](https://en.wikipedia.org/wiki/The_Archie_Show) (CBS): 27 Feb 1970
 - [Allen, Irwin](https://en.wikipedia.org/wiki/Irwin_Allen): 3 Apr 1970
@@ -145,6 +146,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 ## H
 
 - [Hamilton, George](https://en.wikipedia.org/wiki/George_Hamilton_(actor)): 13 Feb 1970; 3 Apr 1970
+- Hamlin, Edward "Ned", appointed news coordinator of broadcast research for CBS: 29 May 1970
 - [Hard Hat Riot](https://en.wikipedia.org/wiki/Hard_Hat_Riot): 22 May 1970
 - [_Harold Robbins The Survivors_](https://en.wikipedia.org/wiki/Harold_Robbins%27_The_Survivors) (ABC): 13 Feb 1970
 - Hasbro, Inc.: _see_ Kenner Products
@@ -336,7 +338,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 ## V
 
 - Vallacher, Kitty: 6 Mar 1970
-- [_Variety_](https://en.wikipedia.org/wiki/Variety_(magazine)) magazine: 27 Mar 1970
+- [_Variety_](https://en.wikipedia.org/wiki/Variety_(magazine)) magazine: 27 Mar 1970; 29 May 1970
 - [Velvel, Lawrence](https://exhibits.lib.ku.edu/exhibits/show/the-year-that-rocked-ku/vietnam-war-protest): 24 Apr 1970
 - "Video Voyeurism": 13 Mar 1970 (Part One); 27 Mar 1970 (Part Two)
 - [Vonnegut, Kurt](https://en.wikipedia.org/wiki/Kurt_Vonnegut): 1 May 1970
@@ -365,6 +367,8 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Zagor, Mike](https://www.imdb.com/name/nm0951870): 3 Apr 1970; 1 May 1970
 - _Zig Zag_ (pilot): 3 Apr 1970
 - Ziv Studios (Ziv Television Programs): 1 May 1970
+
+[A](#A) • [B](#B) • [C](#C) • [D](#D) • [E](#E) • [F](#F) • [G](#G) • [H](#H) • [I](#I) • [K](#K) • [L](#L) • [M](#M) • [N](#N) • [P](#P) • [Q](#Q) • [R](#R) • [S](#S) • [T](#T) • [V](#V) • [Y](#Y) • [Z](#Z)
 
 ----
 
