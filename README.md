@@ -8,7 +8,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 > This index is a work in progress. Nearly all entries below are from _The Other Glass Teat_.
 
-[A](#A) • [B](#B) • [C](#C) • [D](#D) • [E](#E) • [F](#F) • [G](#G) • [H](#H) • [I](#I) • [K](#K) • [L](#L) • [M](#M) • [N](#N) • [P](#P) • [Q](#Q) • [R](#R) • [S](#S) • [T](#T) • [V](#V) • [Y](#Y) • [Z](#Z)
+[A](#A) • [B](#B) • [C](#C) • [D](#D) • [E](#E) • [F](#F) • [G](#G) • [H](#H) • [I](#I) • [J](#J) • [K](#K) • [L](#L) • [M](#M) • [N](#N) • [O](#O) • [P](#P) • [R](#R) • [S](#S) • [T](#T) • [U](#U) • [V](#V) • [W](#W) • [Y](#Y) • [Z](#Z)
 
 ## A
 
@@ -22,6 +22,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Altamont Free Concert](https://en.wikipedia.org/wiki/Altamont_Free_Concert): 6 Mar 1970; 24 Apr 1970
 - [Amory, Cleveland](https://en.wikipedia.org/wiki/Cleveland_Amory): 1 May 1970
 - Anchor Savings and Loan: 24 Apr 1970
+- [Anderson, Jack](https://en.wikipedia.org/wiki/Jack_Anderson_(columnist)): 29 May 1970
 - [Anhalt, Edward](https://en.wikipedia.org/wiki/Edward_Anhalt): 1 May 1970 (as "Edward Amhalt")
 - [_Astounding Science Fiction_ ](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) (_Analog Science Fiction and Fact_) magazine: 20 Mar 1970
 - ["Arena"](https://en.wikipedia.org/wiki/Arena_(short_story)) (short story by Fredric Brown): 20 Mar 1970
@@ -68,6 +69,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Canterbury, Robert (Brigadier General): 15 May 1970
 - Capitol Federal Savings and Loan (Capitol Federal Savings Bank): 24 Apr 1970 
 - [Carroll, Diahann](https://en.wikipedia.org/wiki/Diahann_Carroll): 3 Apr 1970
+- [_CBS Evening News with Walter Cronkite, The_](https://en.wikipedia.org/wiki/CBS_Evening_News): 29 May 1970
 - [Chapman, Leigh](https://en.wikipedia.org/wiki/Leigh_Chapman): 21 Mar 1969
 - Chevron Corporation: _see_ Standard Oil Company of California
 - [Chicago riots (1968)](https://en.wikipedia.org/wiki/1968_Chicago_riots): 20 Feb 1970
@@ -81,7 +83,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Conrad, Harold, letter from: 22 May 1970
 - Cowsills, The: 3 Apr 1970
 - "creative typing": 1 May 1970
-- [Cronkite, Walter](https://en.wikipedia.org/wiki/Walter_Cronkite): 15 May 1970
+- [Cronkite, Walter](https://en.wikipedia.org/wiki/Walter_Cronkite): 15 May 1970; 29 May 1970
 - [Culp, Bob](https://en.wikipedia.org/wiki/Robert_Culp): 1 May 1970
 
 ## D
@@ -239,8 +241,9 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Nanny and the Professor_](https://en.wikipedia.org/wiki/Nanny_and_the_Professor) (ABC): 13 Feb 1970
 - Negron, Chuck: 8 May 1970
 - New Orleans, Louisiana: 8 May 1970
+- [Nguyen Van Mot](https://wall.vietnamesemuseum.org/re-education-camp/nguyen-van-mot/): 29 May 1970
 - [Nimoy, Leonard](https://en.wikipedia.org/wiki/Leonard_Nimoy): 1 May 1970
-- Nixon, Richard: 20 Feb 1970; 27 Feb 1970; 6 Mar 1970; 15 May 1970
+- Nixon, Richard: 20 Feb 1970; 27 Feb 1970; 6 Mar 1970; 15 May 1970; 29 May 1970
 
 ## O
 
@@ -259,6 +262,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Paulsen, Pat: see _Pat Paulsen's Half a Comedy Hour_
 - [_Patton_](https://www.imdb.com/title/tt0066206/) (Twentieth Century Fox): 13 Feb 1970
 - P.D.W., Ms. (pseudonym), letter from: 6 Mar 1970
+- Pentagon, the (United States Department of Defence): 29 May 1970
 - [People's Park Struggle](https://en.wikipedia.org/wiki/1969_People%27s_Park_protest): 6 Mar 1970
 - [_Perry Mason_](https://en.wikipedia.org/wiki/Perry_Mason_(1957_TV_series)) (CBS): 1 May 1970
 - [Poe, Jim](https://en.wikipedia.org/wiki/James_Poe): 1 May 1970
@@ -292,6 +296,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Sesame Street_](https://en.wikipedia.org/wiki/Sesame_Street) (PBS): 8 May 1970
 - sex appeal in advertising: 13 Mar 1970; 27 Mar 1970
 - _Show_ magazine: 8 May 1970
+- Showalter, Richard, 1st Lt.: 29 May 1970
 - [Shultz, Reynolds](https://en.wikipedia.org/wiki/Reynolds_Shultz): 24 Apr 1970
 - [_Silent Force, The_](https://en.wikipedia.org/wiki/The_Silent_Force_(TV_series)) (ABC): 3 Apr 1970
 - [Simmons, Richard Alan](https://en.wikipedia.org/wiki/Richard_Alan_Simmons): 1 May 1970
@@ -347,8 +352,10 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 - [Warehouse, the](https://en.wikipedia.org/wiki/The_Warehouse_(New_Orleans)), New Orleans music venue: 8 May 1970
 - [Warwick, Dionne](https://en.wikipedia.org/wiki/Dionne_Warwick): 6 Mar 1970
+- [Webster, Don](https://www.imdb.com/name/nm8871363), CBS news correspondent: 29 May 1970
 - Wells, Cory: 8 May 1970
 - WGAw: _see_ Writers Guild of America West
+- [Wilson, Richard](https://en.wikipedia.org/wiki/Richard_L._Wilson): 29 May 1970
 - [Wolfe, Bernard](https://en.wikipedia.org/wiki/Bernard_Wolfe): 1 May 1970
 - [Woodstock Nation](https://en.wikipedia.org/wiki/Woodstock_Nation): 6 Mar 1970
 - [Wood, William](https://www.imdb.com/name/nm0940083): 1 May 1970
@@ -368,7 +375,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - _Zig Zag_ (pilot): 3 Apr 1970
 - Ziv Studios (Ziv Television Programs): 1 May 1970
 
-[A](#A) • [B](#B) • [C](#C) • [D](#D) • [E](#E) • [F](#F) • [G](#G) • [H](#H) • [I](#I) • [K](#K) • [L](#L) • [M](#M) • [N](#N) • [P](#P) • [Q](#Q) • [R](#R) • [S](#S) • [T](#T) • [V](#V) • [Y](#Y) • [Z](#Z)
+[A](#A) • [B](#B) • [C](#C) • [D](#D) • [E](#E) • [F](#F) • [G](#G) • [H](#H) • [I](#I) • [J](#J) • [K](#K) • [L](#L) • [M](#M) • [N](#N) • [O](#O) • [P](#P) • [R](#R) • [S](#S) • [T](#T) • [U](#U) • [V](#V) • [W](#W) • [Y](#Y) • [Z](#Z)
 
 ----
 
