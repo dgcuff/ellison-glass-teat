@@ -13,6 +13,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 ## A
 
 - Aaron Spelling Productions (Spelling Television): 20 Mar 1970
+- [_Adam-12_](https://en.wikipedia.org/wiki/Adam-12) (NBC): 26 Jun 1970
 - [Adams, Nick](https://en.wikipedia.org/wiki/Nick_Adams_(actor,_born_1931)): 20 Mar 1970
 - Agnew, Spiro: 20 Feb 1970; 27 Feb 1970; 3 Apr 1970; 15 May 1970; 22 May 1970; 29 May 1970; 19 Jun 1970
 - [Allen, Irwin](https://en.wikipedia.org/wiki/Irwin_Allen): 3 Apr 1970
@@ -33,9 +34,10 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 ## B
 
+- [Bagni, Gwen](https://en.wikipedia.org/wiki/Gwen_Bagni): 26 Jun 1970
 - [Ball, Lucille](https://en.wikipedia.org/wiki/Lucille_Ball): 13 Feb 1970: 13 Mar 1970
 - Banaducci, Joe: _see_ Bonaduce, Joseph
-- Bank of America Corporation: 6 Mar 1970
+- Bank of America Corporation: 6 Mar 1970; 26 Jun 1970
 - [Bardacke, Frank](https://en.wikipedia.org/wiki/Frank_Bardacke): 6 Mar 1970
 - [Barefoot in the Park](https://en.wikipedia.org/wiki/Barefoot_in_the_Park_(TV_series)) (ABC): 3 Apr 1970
 - basketball: 13 Feb 1970
@@ -57,7 +59,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Brennan, Walter](https://en.wikipedia.org/wiki/Walter_Brennan): 13 Feb 1970
 - [Bridges, Lloyd](https://en.wikipedia.org/wiki/Lloyd_Bridges): 20 Mar 1970
 - [Brown, Fredric](https://en.wikipedia.org/wiki/Fredric_Brown): 20 Mar 1970
-- [Bryant, Edward](https://en.wikipedia.org/wiki/Edward_Bryant): 20 Feb 1970
+- [Bryant, Edward](https://en.wikipedia.org/wiki/Edward_Bryant): 20 Feb 1970; 26 Jun 1970
 - [_Bullitt_](https://en.wikipedia.org/wiki/Bullitt) (Warner Bros.): 3 Apr 1970
 - Bunker, Ellsworth: 3 Apr 1970
 - Burton, Pauline, letter from: 6 Mar 1970
@@ -71,9 +73,9 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Capitol Federal Savings and Loan (Capitol Federal Savings Bank): 24 Apr 1970 
 - [Carroll, Diahann](https://en.wikipedia.org/wiki/Diahann_Carroll): 3 Apr 1970
 - [Cash, Johnny](https://en.wikipedia.org/wiki/Johnny_Cash) (as actor): 19 Jun 1970
-- [_CBS Evening News with Walter Cronkite, The_](https://en.wikipedia.org/wiki/CBS_Evening_News): 29 May 1970
+- [_CBS Evening News with Walter Cronkite, The_](https://en.wikipedia.org/wiki/CBS_Evening_News): 29 May 1970; 26 Jun 1970
 - [Chapman, Leigh](https://en.wikipedia.org/wiki/Leigh_Chapman): 21 Mar 1969
-- Chevron Corporation: _see_ Standard Oil Company of California
+- Chevron Corporation: _see_ Standard Oil Company of California; _see also_ F-310 gasoline additive
 - [Chicago riots (1968)](https://en.wikipedia.org/wiki/1968_Chicago_riots): 20 Feb 1970
 - [Chicago Seven](https://en.wikipedia.org/wiki/Chicago_Seven): 6 Mar 1970; 24 Apr 1970; 1 May 1970 (as "Chicago Conspiracy")
 - [_Cimmaron Strip_](https://en.wikipedia.org/wiki/Cimarron_Strip) (CBS): 1 May 1970
@@ -103,6 +105,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - "Dogging It in the Great American Heartland": 8 May 1970
 - [Donlevy, Brian](https://en.wikipedia.org/wiki/Brian_Donlevy): 8 May 1970
 - draft board (United States Selective Service System): 15 May 1970
+- [_Dragnet_](https://en.wikipedia.org/wiki/Dragnet_(1951_TV_series)) (NBC): 26 Jun 1970
 
 ## E
 
@@ -118,6 +121,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - F-310 gasoline additive: 20 Feb 1970; 6 Mar 1970; 3 Apr 1970; 1 May 1970; 22 May 1970
 - [_Face the Nation_](https://en.wikipedia.org/wiki/Face_the_Nation) (CBS): 1 May 1970
 - Farrell, Larry D., letter from: 1 May 1970
+- [_F.B.I., The_](https://en.wikipedia.org/wiki/The_F.B.I._(TV_series)) (ABC): 26 Jun 1970
 - FCC: _see_ Federal Communications Commission
 - Federal Communications Commission: 19 Jun 1970
 - [_First Tuesday_](https://www.imdb.com/title/tt1591598) (NBC): 13 Feb 1970; 1 May 1970
@@ -126,6 +130,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Fontana, Dorothy](https://en.wikipedia.org/wiki/D._C._Fontana): 1 May 1970
 - [_Forsyte Saga, The_](https://en.wikipedia.org/wiki/The_Forsyte_Saga_(1967_TV_series)) (BBC): 19 Jun 1970
 - Fort Worth, Texas: 8 May 1970
+- [FRIDAY, JOE](https://en.wikipedia.org/wiki/Joe_Friday), SERGEANT.: 26 Jun 1970
 - [Frost, David](https://en.wikipedia.org/wiki/David_Frost): 15 May 1970
 - ["Fun and Games"](https://en.wikipedia.org/wiki/Fun_and_Games_(The_Outer_Limits))  ([_The Outer Limits_](https://en.wikipedia.org/wiki/The_Outer_Limits_(1963_TV_series)) episode): 20 Mar 1970
 
@@ -235,12 +240,14 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [McCowan, George](https://en.wikipedia.org/wiki/George_McCowan): 20 Mar 1970
 - McLuhan, Marshall: 8 May 1970; 22 May 1970
 - McPike, Gary: 8 May 1970
-- [McQueen, Steve](https://en.wikipedia.org/wiki/Steve_McQueen): 3 Apr 1970
+- [McQueen, Steve](https://en.wikipedia.org/wiki/Steve_McQueen): 3 Apr 1970; 26 Jun 1970
+- [Milner, Martin](https://en.wikipedia.org/wiki/Martin_Milner): 26 Jun 1970
 - Miller, Dale, interviewed in _The New York Times_: 22 May 1970
 - [Mills, Juliet](https://en.wikipedia.org/wiki/Juliet_Mills): 13 Feb 1970
 - [Milne, Lorus J.](https://fr.wikipedia.org/wiki/Lorus_Milne) and Margery (nee Greene): 27 Feb 1970
 - Mitchell, John N. (U.S. Attorney General): 15 May 1970
 - [Mitchell, Scoey](https://en.wikipedia.org/wiki/Scoey_Mitchell): 3 Apr 1970
+- [_Mod Squad, The_](https://en.wikipedia.org/wiki/The_Mod_Squad) (ABC): 26 Jun 1970
 - Montgomery Ward & Co: 27 Feb 1970 (as "Monkey Ward")
 - Murphy, William J.: 20 Feb 1970; 6 Mar 1970
 - [My Lai mass-murder war crime](https://en.wikipedia.org/wiki/My_Lai_massacre): 13 Mar 1970; 15 May 1970
@@ -254,6 +261,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Nguyen Van Mot](https://wall.vietnamesemuseum.org/re-education-camp/nguyen-van-mot/): 29 May 1970
 - [Nimoy, Leonard](https://en.wikipedia.org/wiki/Leonard_Nimoy): 1 May 1970
 - Nixon, Richard: 20 Feb 1970; 27 Feb 1970; 6 Mar 1970; 15 May 1970; 29 May 1970
+- N'Ayudhya, Momluang Singkata Thomas Tongyai: _see_ Tongyai, Thomas; _see also_ Tommy the Traveler
 
 ## O
 
@@ -274,9 +282,11 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - P.D.W., Ms. (pseudonym), letter from: 6 Mar 1970
 - Pentagon, the (United States Department of Defence): 29 May 1970
 - [People's Park Struggle](https://en.wikipedia.org/wiki/1969_People%27s_Park_protest): 6 Mar 1970
+- Pep cereal: 26 Jun 1970
 - [_Perry Mason_](https://en.wikipedia.org/wiki/Perry_Mason_(1957_TV_series)) (CBS): 1 May 1970
 - [Poe, Jim](https://en.wikipedia.org/wiki/James_Poe): 1 May 1970
 - [Pogostin, Lee](https://www.imdb.com/name/nm0433219/): 1 May 1970
+- police officers: 26 Jun 1970
 - Proctor & Gamble Company: 20 Feb 1970
 - Producers Guild of America: 1 May 1970
 - [Putnam, George](https://en.wikipedia.org/wiki/George_Putnam_(newsman)): 19 Jun 1970
@@ -286,7 +296,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Rafferty, ?: 19 Jun 1970
 - [Randall, Tony](https://en.wikipedia.org/wiki/Tony_Randall): 3 Apr 1970
 - Reagan, Ronald: 24 Apr 1970; 15 May 1970; 19 Jun 1970
-- [Reddin, Tom](https://en.wikipedia.org/wiki/Thomas_Reddin): 19 Jun 1970
+- [Reddin, Tom](https://en.wikipedia.org/wiki/Thomas_Reddin): 19 Jun 1970; 26 Jun 1970
 - Richards, Dick, interviewed in _The New York Times_: 22 May 1970
 - [_Ripcord_](https://en.wikipedia.org/wiki/Ripcord_(TV_series)) (syndication): 1 May 1970
 - Rockwell, Norman: 22 May 1970
@@ -337,8 +347,10 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 - Texaco lead-free gasoline: 22 May 1970
 - _Toast of the Town, The_: see _Ed Sullivan Show, The_
+- "Tommy the Traveler" (undercover police officer): 26 Jun 1970
 - [Thomas, Danny](https://en.wikipedia.org/wiki/Danny_Thomas): 3 Apr 1970
 - Three Dog Night: 8 May 1970
+- Tongyai, Thomas ("Tommy the Traveller"): 26 Jun 1970
 - "Trail of Tears" ([NET Playhouse](https://en.wikipedia.org/wiki/NET_Playhouse) episode): 19 Jun 1970
 - [Trueblood, Guerdon](https://en.wikipedia.org/wiki/Guerdon_Trueblood): 20 Mar 1970; 1 May 1970
 - [_TV Guide_](https://en.wikipedia.org/wiki/TV_Guide_(magazine)) magazine: 1 May 1970; 22 May 1970
@@ -370,6 +382,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 - [Warehouse, the](https://en.wikipedia.org/wiki/The_Warehouse_(New_Orleans)), New Orleans music venue: 8 May 1970
 - [Warwick, Dionne](https://en.wikipedia.org/wiki/Dionne_Warwick): 6 Mar 1970
+- [Webb, Jack](https://en.wikipedia.org/wiki/Jack_Webb): 26 Jun 1970
 - [Webster, Don](https://www.imdb.com/name/nm8871363), CBS news correspondent: 29 May 1970
 - Welk, Lawrence: see _The Lawrence Welk Show_
 - Wells, Cory: 8 May 1970
