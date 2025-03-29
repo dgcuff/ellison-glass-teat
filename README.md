@@ -13,9 +13,8 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 ## A
 
 - Aaron Spelling Productions (Spelling Television): 20 Mar 1970
-- Agnew, Spiro: 20 Feb 1970; 27 Feb 1970; 3 Apr 1970; 15 May 1970; 22 May 1970; 29 May 1970
 - [Adams, Nick](https://en.wikipedia.org/wiki/Nick_Adams_(actor,_born_1931)): 20 Mar 1970
-- [_Archies, The_](https://en.wikipedia.org/wiki/The_Archie_Show) (CBS): 27 Feb 1970
+- Agnew, Spiro: 20 Feb 1970; 27 Feb 1970; 3 Apr 1970; 15 May 1970; 22 May 1970; 29 May 1970; 19 Jun 1970
 - [Allen, Irwin](https://en.wikipedia.org/wiki/Irwin_Allen): 3 Apr 1970
 - [Allen, Woody](https://en.wikipedia.org/wiki/Woody_Allen): 27 Mar 1970
 - Allsup, Michael: 8 May 1970
@@ -23,18 +22,20 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Amory, Cleveland](https://en.wikipedia.org/wiki/Cleveland_Amory): 1 May 1970
 - Anchor Savings and Loan: 24 Apr 1970
 - [Anderson, Jack](https://en.wikipedia.org/wiki/Jack_Anderson_(columnist)): 29 May 1970
+- [_Andersonville Trial, The_](https://en.wikipedia.org/wiki/The_Andersonville_Trial) (NET): 19 Jun 1970
 - [Anhalt, Edward](https://en.wikipedia.org/wiki/Edward_Anhalt): 1 May 1970 (as "Edward Amhalt")
-- [_Astounding Science Fiction_ ](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) (_Analog Science Fiction and Fact_) magazine: 20 Mar 1970
+- [_Archies, The_](https://en.wikipedia.org/wiki/The_Archie_Show) (CBS): 27 Feb 1970
 - ["Arena"](https://en.wikipedia.org/wiki/Arena_(short_story)) (short story by Fredric Brown): 20 Mar 1970
+- [_Astounding Science Fiction_ ](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) (_Analog Science Fiction and Fact_) magazine: 20 Mar 1970
 - [Augusta riot](https://en.wikipedia.org/wiki/1970_Augusta_riot): 22 May 1970
-- Austin, Texax: 8 May 1970
+- Austin, Texas: 8 May 1970
 - _Awake and Sing!_: 24 Apr 1970
 
 ## B
 
 - [Ball, Lucille](https://en.wikipedia.org/wiki/Lucille_Ball): 13 Feb 1970: 13 Mar 1970
-- Bank of America Corporation: 6 Mar 1970
 - Banaducci, Joe: _see_ Bonaduce, Joseph
+- Bank of America Corporation: 6 Mar 1970
 - [Bardacke, Frank](https://en.wikipedia.org/wiki/Frank_Bardacke): 6 Mar 1970
 - [Barefoot in the Park](https://en.wikipedia.org/wiki/Barefoot_in_the_Park_(TV_series)) (ABC): 3 Apr 1970
 - basketball: 13 Feb 1970
@@ -51,7 +52,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Bonanza_](https://en.wikipedia.org/wiki/Bonanza) (NBC): 1 May 1970
 - [Bourbon Orleans Hotel](https://www.bourbonorleans.com/): 8 May 1970
 - Boyles, Michael, letter from: 6 Mar 1970
-- [_Brady Bunch, The_](https://en.wikipedia.org/wiki/The_Brady_Bunch) (ABC): 1 May 1970
+- [_Brady Bunch, The_](https://en.wikipedia.org/wiki/The_Brady_Bunch) (ABC): 1 May 1970; 19 Jun 1970
 - Brenizer, Mark, letter from: 6 Mar 1970
 - [Brennan, Walter](https://en.wikipedia.org/wiki/Walter_Brennan): 13 Feb 1970
 - [Bridges, Lloyd](https://en.wikipedia.org/wiki/Lloyd_Bridges): 20 Mar 1970
@@ -69,6 +70,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Canterbury, Robert (Brigadier General): 15 May 1970
 - Capitol Federal Savings and Loan (Capitol Federal Savings Bank): 24 Apr 1970 
 - [Carroll, Diahann](https://en.wikipedia.org/wiki/Diahann_Carroll): 3 Apr 1970
+- [Cash, Johnny](https://en.wikipedia.org/wiki/Johnny_Cash) (as actor): 19 Jun 1970
 - [_CBS Evening News with Walter Cronkite, The_](https://en.wikipedia.org/wiki/CBS_Evening_News): 29 May 1970
 - [Chapman, Leigh](https://en.wikipedia.org/wiki/Leigh_Chapman): 21 Mar 1969
 - Chevron Corporation: _see_ Standard Oil Company of California
@@ -116,10 +118,13 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - F-310 gasoline additive: 20 Feb 1970; 6 Mar 1970; 3 Apr 1970; 1 May 1970; 22 May 1970
 - [_Face the Nation_](https://en.wikipedia.org/wiki/Face_the_Nation) (CBS): 1 May 1970
 - Farrell, Larry D., letter from: 1 May 1970
+- FCC: _see_ Federal Communications Commission
+- Federal Communications Commission: 19 Jun 1970
 - [_First Tuesday_](https://www.imdb.com/title/tt1591598) (NBC): 13 Feb 1970; 1 May 1970
 - [Flammarion, Camille](https://en.wikipedia.org/wiki/Camille_Flammarion): 20 Mar 1970
 - [_Flying Nun, The_](https://en.wikipedia.org/wiki/The_Flying_Nun) (ABC): 3 Apr 1970
 - [Fontana, Dorothy](https://en.wikipedia.org/wiki/D._C._Fontana): 1 May 1970
+- [_Forsyte Saga, The_](https://en.wikipedia.org/wiki/The_Forsyte_Saga_(1967_TV_series)) (BBC): 19 Jun 1970
 - Fort Worth, Texas: 8 May 1970
 - [Frost, David](https://en.wikipedia.org/wiki/David_Frost): 15 May 1970
 - ["Fun and Games"](https://en.wikipedia.org/wiki/Fun_and_Games_(The_Outer_Limits))  ([_The Outer Limits_](https://en.wikipedia.org/wiki/The_Outer_Limits_(1963_TV_series)) episode): 20 Mar 1970
@@ -161,6 +166,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Hoffman, Abby](https://en.wikipedia.org/wiki/Abby_Hoffman): 24 Apr 1970
 - [Hoffman, Julius](https://en.wikipedia.org/wiki/Julius_Hoffman): 20 Feb 1970; 24 Apr 1970
 - [_Hollywood Reporter, The_](https://en.wikipedia.org/wiki/The_Hollywood_Reporter) magazine: 20 Mar 1970
+- [_Hospital_](https://en.wikipedia.org/wiki/Hospital_(1970_film)) (NET): 19 Jun 1970
 - House Un-American Activities Committee: 1 May 1970
 - Houston, Texas: 8 May 1970
 - [Hoyle, Fred](https://en.wikipedia.org/wiki/Fred_Hoyle): 20 Mar 1070
@@ -184,6 +190,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - _Kaleidoscope of the American Dream_: 24 Apr 1970
 - [Kaufman, Bobby](https://en.wikipedia.org/wiki/Robert_Kaufman): 1 May 1970
 - [Kazan, Elia](https://en.wikipedia.org/wiki/Elia_Kazan): 1 May 1970
+- [KCET](https://en.wikipedia.org/wiki/KCET): 19 Jun 1970
 - Kenner Products: 13 Mar 1970
 - Kent State shootings: 15 May 1970; 22 May 1970
 - Kidd, David: 20 Mar 1970
@@ -199,12 +206,14 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Law and Mr. Jones, The_](https://en.wikipedia.org/wiki/The_Law_and_Mr._Jones) (ABC): 1 May 1970
 - [Lawrence, Steve](https://en.wikipedia.org/wiki/Steve_Lawrence): 6 Mar 1970
 - Lawrence, Tony: 20 Mar 1970
+- [_Lawrence Welk Show, The_](https://en.wikipedia.org/wiki/The_Lawrence_Welk_Show) (ABC): 19 Jun 1970
 - [Lemmon, Jack](https://en.wikipedia.org/wiki/Jack_Lemmon): 3 Apr 1970
 - Lester, Seeleg: 20 Mar 1970
 - [Lewis, Jerry](https://en.wikipedia.org/wiki/Jerry_Lewis): 13 Feb 1970
 - Liggett & Myers Tobacco Company (Liggett Group): 20 Feb 1970
 - [Litto, Frederick](https://exhibits.lib.ku.edu/exhibits/show/the-year-that-rocked-ku/vietnam-war-protest): 24 Apr 1970
 - [Long, Richard](https://en.wikipedia.org/wiki/Richard_Long_(actor)): 13 Feb 1970
+- Los Angeles Unified School District: 19 Jun 1970
 - Louise (girlfriend of HE): 13 Feb 1970
 - [_Love War, The_](https://en.wikipedia.org/wiki/The_Love_War) (ABC): 20 Mar 1970; 1 May 1970
 - Lovin' Spoonful, The: 1 May 1970
@@ -238,7 +247,8 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 ## N
 
-- [_Nanny and the Professor_](https://en.wikipedia.org/wiki/Nanny_and_the_Professor) (ABC): 13 Feb 1970
+- [_Nanny and the Professor_](https://en.wikipedia.org/wiki/Nanny_and_the_Professor) (ABC): 13 Feb 1970; 19 Jun 1970
+- [National Education Television](https://en.wikipedia.org/wiki/National_Educational_Television): 19 Jun 1970
 - Negron, Chuck: 8 May 1970
 - New Orleans, Louisiana: 8 May 1970
 - [Nguyen Van Mot](https://wall.vietnamesemuseum.org/re-education-camp/nguyen-van-mot/): 29 May 1970
@@ -269,11 +279,14 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Pogostin, Lee](https://www.imdb.com/name/nm0433219/): 1 May 1970
 - Proctor & Gamble Company: 20 Feb 1970
 - Producers Guild of America: 1 May 1970
+- [Putnam, George](https://en.wikipedia.org/wiki/George_Putnam_(newsman)): 19 Jun 1970
 
 ## R
 
+- Rafferty, ?: 19 Jun 1970
 - [Randall, Tony](https://en.wikipedia.org/wiki/Tony_Randall): 3 Apr 1970
-- Reagan, Ronald: 24 Apr 1970; 15 May 1970
+- Reagan, Ronald: 24 Apr 1970; 15 May 1970; 19 Jun 1970
+- [Reddin, Tom](https://en.wikipedia.org/wiki/Thomas_Reddin): 19 Jun 1970
 - Richards, Dick, interviewed in _The New York Times_: 22 May 1970
 - [_Ripcord_](https://en.wikipedia.org/wiki/Ripcord_(TV_series)) (syndication): 1 May 1970
 - Rockwell, Norman: 22 May 1970
@@ -289,11 +302,12 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Scanlan's Monthly_](https://en.wikipedia.org/wiki/Scanlan's_Monthly) magazine: 6 Mar 1970
 - Schermie, Joe: 8 May 1970
 - Schultz, Reynolds: _see_ Shultz, Reynolds
+- Scoble, Prof. Harry M.: 19 Jun 1970
 - Sears, Roebuck and Co.: 27 Feb 1970
 - Selective Service System: _see_ draft board
 - [Semple, Lorenzo, Jr.](https://en.wikipedia.org/wiki/Lorenzo_Semple_Jr.): 1 May 1970
 - [_Senses of Animals and Men, The_](https://archive.org/details/sensesofanimalsm0000miln) (Atheneum, 1962): 27 Feb 1970
-- [_Sesame Street_](https://en.wikipedia.org/wiki/Sesame_Street) (PBS): 8 May 1970
+- [_Sesame Street_](https://en.wikipedia.org/wiki/Sesame_Street) (PBS): 8 May 1970; 19 Jun 1970
 - sex appeal in advertising: 13 Mar 1970; 27 Mar 1970
 - _Show_ magazine: 8 May 1970
 - Showalter, Richard, 1st Lt.: 29 May 1970
@@ -312,6 +326,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - State University of New York at Buffalo: 24 Apr 1970
 - [Stern, Sol](https://en.wikipedia.org/wiki/Sol_Stern): 6 Mar 1970
 - [Steve and Eydie](https://en.wikipedia.org/wiki/Steve_and_Eydie): 6 Mar 1970
+- Stouffer, Clayton: 19 Jun 1970
 - [Sullivan, Ed](https://en.wikipedia.org/wiki/Ed_Sullivan): 6 Mar 1970; see also _Ed Sullivan Show, The_
 - Sunset Strip, West Hollywood, California: 6 Mar 1970
 - SUNY: _see_ State University of New York
@@ -324,6 +339,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - _Toast of the Town, The_: see _Ed Sullivan Show, The_
 - [Thomas, Danny](https://en.wikipedia.org/wiki/Danny_Thomas): 3 Apr 1970
 - Three Dog Night: 8 May 1970
+- "Trail of Tears" ([NET Playhouse](https://en.wikipedia.org/wiki/NET_Playhouse) episode): 19 Jun 1970
 - [Trueblood, Guerdon](https://en.wikipedia.org/wiki/Guerdon_Trueblood): 20 Mar 1970; 1 May 1970
 - [_TV Guide_](https://en.wikipedia.org/wiki/TV_Guide_(magazine)) magazine: 1 May 1970; 22 May 1970
 - [_21st Century, The_](https://en.wikipedia.org/wiki/The_Twentieth_Century) (CBS): 1 May 1970
@@ -346,6 +362,8 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Variety_](https://en.wikipedia.org/wiki/Variety_(magazine)) magazine: 27 Mar 1970; 29 May 1970
 - [Velvel, Lawrence](https://exhibits.lib.ku.edu/exhibits/show/the-year-that-rocked-ku/vietnam-war-protest): 24 Apr 1970
 - "Video Voyeurism": 13 Mar 1970 (Part One); 27 Mar 1970 (Part Two)
+- Viewer Sponsored Television Foundation: 19 Jun 1970
+- VSTV: 19 Jun 1970
 - [Vonnegut, Kurt](https://en.wikipedia.org/wiki/Kurt_Vonnegut): 1 May 1970
 
 ## W
@@ -353,6 +371,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Warehouse, the](https://en.wikipedia.org/wiki/The_Warehouse_(New_Orleans)), New Orleans music venue: 8 May 1970
 - [Warwick, Dionne](https://en.wikipedia.org/wiki/Dionne_Warwick): 6 Mar 1970
 - [Webster, Don](https://www.imdb.com/name/nm8871363), CBS news correspondent: 29 May 1970
+- Welk, Lawrence: see _The Lawrence Welk Show_
 - Wells, Cory: 8 May 1970
 - WGAw: _see_ Writers Guild of America West
 - [Wilson, Richard](https://en.wikipedia.org/wiki/Richard_L._Wilson): 29 May 1970
