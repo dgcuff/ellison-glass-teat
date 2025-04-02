@@ -20,13 +20,15 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Allen, Woody](https://en.wikipedia.org/wiki/Woody_Allen): 27 Mar 1970
 - Allsup, Michael: 8 May 1970
 - [Altamont Free Concert](https://en.wikipedia.org/wiki/Altamont_Free_Concert): 6 Mar 1970; 24 Apr 1970
+- Amhalt, Edward: _see_ Anhalt, Edward
 - [Amory, Cleveland](https://en.wikipedia.org/wiki/Cleveland_Amory): 1 May 1970
 - Anchor Savings and Loan: 24 Apr 1970
 - [Anderson, Jack](https://en.wikipedia.org/wiki/Jack_Anderson_(columnist)): 29 May 1970
 - [_Andersonville Trial, The_](https://en.wikipedia.org/wiki/The_Andersonville_Trial) (NET): 19 Jun 1970
-- [Anhalt, Edward](https://en.wikipedia.org/wiki/Edward_Anhalt): 1 May 1970 (as "Edward Amhalt")
+- [Anhalt, Edward](https://en.wikipedia.org/wiki/Edward_Anhalt): 1 May 1970
 - [_Archies, The_](https://en.wikipedia.org/wiki/The_Archie_Show) (CBS): 27 Feb 1970
 - ["Arena"](https://en.wikipedia.org/wiki/Arena_(short_story)) (short story by Fredric Brown): 20 Mar 1970
+- [Arnold, Danny](https://en.wikipedia.org/wiki/Danny_Arnold): 10 Jul 1970
 - [_Astounding Science Fiction_ ](https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact) (_Analog Science Fiction and Fact_) magazine: 20 Mar 1970
 - [Augusta riot](https://en.wikipedia.org/wiki/1970_Augusta_riot): 22 May 1970
 - Austin, Texas: 8 May 1970
@@ -43,11 +45,11 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Barris, Chuck: _see_ Chuck Barris Production
 - basketball: 13 Feb 1970
 - [_Battle of the Bulge, The_](https://www.imdb.com/title/tt0058947/) (distr. Warner Bros.): 20 Mar 1970
+- BBC: _see_ British Broadcasting Corporation
 - Beatles, The: 6 Mar 1970; 3 Jul 1970
 - [Benjamin, Richard](https://en.wikipedia.org/wiki/Richard_Benjamin): 3 Jul 1970
 - [_Beverly Hillbillies, The_](https://en.wikipedia.org/wiki/The_Beverly_Hillbillies) (CBS): 1 May 1970
 - [_Bewitched_](https://en.wikipedia.org/wiki/Bewitched) (ABC): 1 May 1970
-- blanket sleeper pyjamas for children ("Dr. Dentons"): 13 Feb 1970
 - [Black, John D.F.](https://en.wikipedia.org/wiki/John_D._F._Black): 1 May 1970
 - [Blass, Bill](https://en.wikipedia.org/wiki/Bill_Blass): 13 Mar 1970
 - [Bloch, John](https://www.imdb.com/name/nm0088624): 1 May 1970
@@ -61,6 +63,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Brenizer, Mark, letter from: 6 Mar 1970
 - [Brennan, Walter](https://en.wikipedia.org/wiki/Walter_Brennan): 13 Feb 1970
 - [Bridges, Lloyd](https://en.wikipedia.org/wiki/Lloyd_Bridges): 20 Mar 1970
+- British Broadcasting Corporation (BBC): 10 Jul 1970
 - [Brown, Fredric](https://en.wikipedia.org/wiki/Fredric_Brown): 20 Mar 1970
 - [Bryant, Edward](https://en.wikipedia.org/wiki/Edward_Bryant): 20 Feb 1970; 26 Jun 1970
 - Buffalo Springfield: 3 Jul 1970
@@ -86,6 +89,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Cash, Johnny](https://en.wikipedia.org/wiki/Johnny_Cash) (as actor): 19 Jun 1970
 - [Cassidy, Jack](https://en.wikipedia.org/wiki/Jack_Cassidy): 3 Jul 1970
 - [_CBS Evening News with Walter Cronkite, The_](https://en.wikipedia.org/wiki/CBS_Evening_News): 29 May 1970; 26 Jun 1970
+- censorship: 10 Jul 1970
 - [Chandler, Len](https://en.wikipedia.org/wiki/Len_Chandler): 3 Jul 1970
 - [Chapman, Leigh](https://en.wikipedia.org/wiki/Leigh_Chapman): 21 Mar 1969
 - Chevron Corporation: _see_ Standard Oil Company of California; _see also_ F-310 gasoline additive
@@ -100,6 +104,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - "Concerned Viewer" (pseudonym), letter from: 1 May 1970
 - Concerts West (Anschutz Entertainment Group): 8 May 1970
 - Conrad, Harold, letter from: 22 May 1970
+- [Coon, Gene L.](https://en.wikipedia.org/wiki/Gene_L._Coon): 10 Jul 1970
 - Cowsills, The: 3 Apr 1970
 - "creative typing": 1 May 1970
 - [Credibility Gap, The](https://en.wikipedia.org/wiki/The_Credibility_Gap): 3 Jul 1970
@@ -125,8 +130,10 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - _Do It Now!_ (Chuck Barris Productions): 3 Jul 1970
 - [Donlevy, Brian](https://en.wikipedia.org/wiki/Brian_Donlevy): 8 May 1970
 - Donovan: 3 Jul 1970
+- Dow Chemical Company: 10 Jul 1970
 - draft board (United States Selective Service System): 15 May 1970
 - [_Dragnet_](https://en.wikipedia.org/wiki/Dragnet_(1951_TV_series)) (NBC): 26 Jun 1970
+- [Dubov, Paul](https://en.wikipedia.org/wiki/Paul_Dubov): 10 Jul 1970
 
 ## E
 
@@ -136,6 +143,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Edwards, Vince](https://en.wikipedia.org/wiki/Vince_Edwards): 3 Apr 1970
 - Elliot, Cass: 3 Jul 1970
 - Elliott, Bob: _see_ Bob & Ray
+- Ellison, Beverly C. Rabnick: 10 Jul 1970
 - [_Engelbert Humperdinck Show, The_](https://www.imdb.com/title/tt0065291) (ATV, bcast. ABC): 3 Apr 1970
 - [Epstein, Jon](https://www.imdb.com/name/nm0258486): 1 May 1970
 - [Evers, Jason](https://en.wikipedia.org/wiki/Jason_Evers): 3 Apr 1970
@@ -147,16 +155,17 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Farrell, Larry D., letter from: 1 May 1970
 - [_F.B.I., The_](https://en.wikipedia.org/wiki/The_F.B.I._(TV_series)) (ABC): 26 Jun 1970
 - FCC: _see_ Federal Communications Commission
-- Federal Communications Commission: 19 Jun 1970
+- Federal Communications Commission: 19 Jun 1970; 10 Jul 1970
 - [_First Tuesday_](https://www.imdb.com/title/tt1591598) (NBC): 13 Feb 1970; 1 May 1970
 - [Flammarion, Camille](https://en.wikipedia.org/wiki/Camille_Flammarion): 20 Mar 1970
 - [_Flying Nun, The_](https://en.wikipedia.org/wiki/The_Flying_Nun) (ABC): 3 Apr 1970
 - [Fontana, Dorothy](https://en.wikipedia.org/wiki/D._C._Fontana): 1 May 1970
 - [_Forsyte Saga, The_](https://en.wikipedia.org/wiki/The_Forsyte_Saga_(1967_TV_series)) (BBC): 19 Jun 1970
 - Fort Worth, Texas: 8 May 1970
-- [FRIDAY, JOE](https://en.wikipedia.org/wiki/Joe_Friday), SERGEANT.: 26 Jun 1970
+- [FRIDAY, JOE](https://en.wikipedia.org/wiki/Joe_Friday), SERGEANT: 26 Jun 1970
 - [Frost, David](https://en.wikipedia.org/wiki/David_Frost): 15 May 1970
 - ["Fun and Games"](https://en.wikipedia.org/wiki/Fun_and_Games_(The_Outer_Limits))  ([_The Outer Limits_](https://en.wikipedia.org/wiki/The_Outer_Limits_(1963_TV_series)) episode): 20 Mar 1970
+- [Furia, John, Jr](https://en.wikipedia.org/wiki/John_Furia_Jr.): 10 Jul 1970
 
 ## G
 
@@ -220,6 +229,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 - Jefferson Airplane: 3 Jul 1970
 - [_Jimmy Durante Presents the Lennon Sisters_](https://en.wikipedia.org/wiki/Jimmy_Durante_Presents_the_Lennon_Sisters) (ABC): 3 Apr 1970
+- [Johnson, George Clayton](https://en.wikipedia.org/wiki/George_Clayton_Johnson): 10 Jul 1970
 - [Jordan, Judith](https://www.imdb.com/name/nm0430041): 20 Mar 1970
   
 ## K
@@ -237,6 +247,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Klugman, Jack](https://en.wikipedia.org/wiki/Jack_Klugman): 3 Apr 1970
 - Koch, Richard K., letter from: 6 Mar 1970
 - Koupal, Edwin: 3 Jul 1970
+- [Knopf, Christopher](https://en.wikipedia.org/wiki/Christopher_Knopf): 10 Jul 1970
 
 ## L
 
@@ -262,7 +273,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 ## M
 
-
+- [MacDougall, Ranald](https://en.wikipedia.org/wiki/Ranald_MacDougall): 10 Jul 1970
 - Maddox, Lester, Sr.: 24 Apr 1970
 - Mamas & the Papas, The: _see_ Cass Elliot
 - [_Man from U.N.C.L.E., The_](https://en.wikipedia.org/wiki/The_Man_from_U.N.C.L.E.) (NBC): 1 May 1970
@@ -285,6 +296,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Mitchell, John N. (U.S. Attorney General): 15 May 1970
 - [Mitchell, Scoey](https://en.wikipedia.org/wiki/Scoey_Mitchell): 3 Apr 1970
 - [_Mod Squad, The_](https://en.wikipedia.org/wiki/The_Mod_Squad) (ABC): 26 Jun 1970
+- [Monaster, Nate](https://en.wikipedia.org/wiki/Nate_Monaster): 10 Jul 1970
 - Montgomery Ward & Co: 27 Feb 1970 (as "Monkey Ward")
 - Murphy, William J.: 20 Feb 1970; 6 Mar 1970; 3 Jul 1970
 - [My Lai mass-murder war crime](https://en.wikipedia.org/wiki/My_Lai_massacre): 13 Mar 1970; 15 May 1970
@@ -327,16 +339,19 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [People's Park Struggle](https://en.wikipedia.org/wiki/1969_People%27s_Park_protest): 6 Mar 1970
 - Pep cereal: 26 Jun 1970
 - [_Perry Mason_](https://en.wikipedia.org/wiki/Perry_Mason_(1957_TV_series)) (CBS): 1 May 1970
+- PGA: _see_ Producers Guild of America
 - [Poe, Jim](https://en.wikipedia.org/wiki/James_Poe): 1 May 1970
 - [Pogostin, Lee](https://www.imdb.com/name/nm0433219/): 1 May 1970
 - police officers: 26 Jun 1970
 - [Prentiss, Paula](https://en.wikipedia.org/wiki/Paula_Prentiss): 3 Jul 1970
 - Proctor & Gamble Company: 20 Feb 1970
-- Producers Guild of America: 1 May 1970
+- Producers Guild of America: 1 May 1970; 10 Jul 1970
 - [Putnam, George](https://en.wikipedia.org/wiki/George_Putnam_(newsman)): 19 Jun 1970
+- pyjamas for children, blanket sleeper ("Dr. Dentons"): 13 Feb 1970
 
 ## R
 
+- Rabnick, Beverly: _see_ Ellison, Beverly C. Rabnick
 - Rafferty, ?: 19 Jun 1970
 - [Randall, Tony](https://en.wikipedia.org/wiki/Tony_Randall): 3 Apr 1970
 - Reagan, Ronald: 24 Apr 1970; 15 May 1970; 19 Jun 1970
@@ -355,17 +370,20 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 - [_Satan Bug, The_](https://www.imdb.com/title/tt0059678) (United Artists): 1 May 1970
 - [_Scanlan's Monthly_](https://en.wikipedia.org/wiki/Scanlan's_Monthly) magazine: 6 Mar 1970
+- Scharf, Henry: 8 May 1970
 - Schermie, Joe: 8 May 1970
 - Schultz, Reynolds: _see_ Shultz, Reynolds
 - Scoble, Prof. Harry M.: 19 Jun 1970
 - Sears, Roebuck and Co.: 27 Feb 1970
 - Sebastian, John: 3 Jul 1970
+- Second Indochina War: _see_ Vietnam War
 - Selective Service System: _see_ draft board
 - [Semple, Lorenzo, Jr.](https://en.wikipedia.org/wiki/Lorenzo_Semple_Jr.): 1 May 1970
 - [_Senses of Animals and Men, The_](https://archive.org/details/sensesofanimalsm0000miln) (Atheneum, 1962): 27 Feb 1970
 - [_Sesame Street_](https://en.wikipedia.org/wiki/Sesame_Street) (PBS): 8 May 1970; 19 Jun 1970
 - sex appeal in advertising: 13 Mar 1970; 27 Mar 1970
 - Sha Na Na: 3 Jul 1970
+- [Shavelson, Melville](https://en.wikipedia.org/wiki/Melville_Shavelson): 10 Jul 1970
 - _Show_ magazine: 8 May 1970
 - Showalter, Richard, 1st Lt.: 29 May 1970
 - [Shultz, Reynolds](https://en.wikipedia.org/wiki/Reynolds_Shultz): 24 Apr 1970
@@ -394,6 +412,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 ## T
 
 - "Tangerine" (popular song): 3 Jul 1970
+- Taylor, Geoffrey: 28 Aug 1970
 - Texaco lead-free gasoline: 22 May 1970; 3 Jul 1970
 - _Toast of the Town, The_: see _Ed Sullivan Show, The_
 - "Tommy the Traveler" (undercover police officer): 26 Jun 1970
@@ -410,6 +429,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 - [Unger, Maurice "Babe"](https://www.imdb.com/name/nm0881175): 1 May 1970
 - Union Oil Company of California (Unocal): 20 Feb 1970
+- unions: _see_ Producers Guild of America; Writers Guild of America West
 - Universal City Studios: 20 Feb 1970
 - University of California, Irvine: 6 Mar 1970
 - University of Kansas: 24 Apr 1970
@@ -423,6 +443,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Variety_](https://en.wikipedia.org/wiki/Variety_(magazine)) magazine: 27 Mar 1970; 29 May 1970
 - [Velvel, Lawrence](https://exhibits.lib.ku.edu/exhibits/show/the-year-that-rocked-ku/vietnam-war-protest): 24 Apr 1970
 - "Video Voyeurism": 13 Mar 1970 (Part One); 27 Mar 1970 (Part Two)
+- Vietnam War: _see_ Cambodian incursion by the United States; Canada as a destination for American draft evaders; draft board; Laos, US bombing campaigh in; My Lai mass-murder war crime; _passim_
 - Viewer Sponsored Television Foundation: 19 Jun 1970; 3 Jul 1970
 - VSTV: _see_ Viewer Sponsored Television Foundation
 - [Vonnegut, Kurt](https://en.wikipedia.org/wiki/Kurt_Vonnegut): 1 May 1970
@@ -436,13 +457,14 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Welk, Lawrence: see _The Lawrence Welk Show_
 - Wells, Cory: 8 May 1970
 - WGAw: _see_ Writers Guild of America West
+- [Wilber, Carey](https://en.wikipedia.org/wiki/Carey_Wilber): 10 Jul 1970
 - [Wilson, Richard](https://en.wikipedia.org/wiki/Richard_L._Wilson): 29 May 1970
 - [Wolfe, Bernard](https://en.wikipedia.org/wiki/Bernard_Wolfe): 1 May 1970
 - [Woodstock Nation](https://en.wikipedia.org/wiki/Woodstock_Nation): 6 Mar 1970
 - [Wood, William](https://www.imdb.com/name/nm0940083): 1 May 1970
 - _Write for your Life_: 3 Jul 1970
 - _Writer's Cramp, The_ newsletter: 6 Mar 1970
-- Writers Guild of America West: 1 May 1970
+- Writers Guild of America West: 1 May 1970; 10 Jul 1970
 - [Wynn, Tracy Keenan](https://en.wikipedia.org/wiki/Tracy_Keenan_Wynn): 1 May 1970
 
 ## Y
