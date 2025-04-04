@@ -57,6 +57,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Big Town_](https://en.wikipedia.org/wiki/Big_Town): 17 Jul 1970
 - "Big Yellow Taxi" (song): 17 Jul 1970
 - Bilbo, Theodore: 17 Jul 1970
+- [_Black Cat, The_](https://www.imdb.com/title/tt0024894) (Universal): 31 Jul 1970
 - [Black, John D.F.](https://en.wikipedia.org/wiki/John_D._F._Black): 1 May 1970
 - [Blass, Bill](https://en.wikipedia.org/wiki/Bill_Blass): 13 Mar 1970
 - [Bloch, John](https://www.imdb.com/name/nm0088624): 1 May 1970
@@ -122,6 +123,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Cowsills, The: 3 Apr 1970
 - [Crane, Les](https://en.wikipedia.org/wiki/Les_Crane): 17 Jul 1970
 - "creative typing": 1 May 1970
+- _Creature Features_: 31 Jul 1970
 - [Credibility Gap, The](https://en.wikipedia.org/wiki/The_Credibility_Gap): 3 Jul 1970; 17 Jul 1970
 - [Cronkite, Walter](https://en.wikipedia.org/wiki/Walter_Cronkite): 15 May 1970; 29 May 1970
 - Crosby, Stills, Nash & Young: 3 Jul 1970
@@ -138,7 +140,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - defanged dissent: 17 Jul 1970
 - [_Defenders, The_](https://en.wikipedia.org/wiki/The_Defenders_(1961_TV_series)) (CBS): 1 May 1970
 - De Wolfe, Anne: 24 Jul 1970
-- [_Dial Hot Line_](https://en.wikipedia.org/wiki/Dial_Hot_Line) made-for-TV movie (Universal, aired ABC): 3 Apr 1970
+- [_Dial Hot Line_](https://en.wikipedia.org/wiki/Dial_Hot_Line) made-for-TV movie (Universal, aired ABC): 3 Apr 1970; 31 Jul 1970
 - [Dickinson, Angie](https://en.wikipedia.org/wiki/Angie_Dickinson): 20 Mar 1970
 - [Dickson, Gordon](https://en.wikipedia.org/wiki/Gordon_R._Dickson): 24 Apr 1970
 - Dion: 3 Jul 1970
@@ -158,7 +160,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Eberly, Robert (as "Bob Eberle"): 3 Jul 1970
 - [_Edge of Night, The_](https://en.wikipedia.org/wiki/The_Edge_of_Night) (CBS): 8 May 1970
 - [_Ed Sullivan Show, The_](https://en.wikipedia.org/wiki/The_Ed_Sullivan_Show) (CBS): 6 Mar 1970; _see also_ Sullivan, Ed
-- [Edwards, Vince](https://en.wikipedia.org/wiki/Vince_Edwards): 3 Apr 1970
+- [Edwards, Vince](https://en.wikipedia.org/wiki/Vince_Edwards): 3 Apr 1970; 31 Jul 1970
 - Elliot, Cass: 3 Jul 1970
 - Elliott, Bob: _see_ Bob & Ray
 - Ellison, Beverly C. Rabnick: 10 Jul 1970
@@ -264,6 +266,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 ## K
 
 - _Kaleidoscope of the American Dream_: 24 Apr 1970
+- [Karloff, Boris](https://en.wikipedia.org/wiki/Boris_Karloff): 31 Jul 1970
 - [Kaufman, Bobby](https://en.wikipedia.org/wiki/Robert_Kaufman): 1 May 1970
 - [Kazan, Elia](https://en.wikipedia.org/wiki/Elia_Kazan): 1 May 1970
 - [KCET](https://en.wikipedia.org/wiki/KCET): 19 Jun 1970; 3 Jul 1970
@@ -272,6 +275,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Kidd, David: 20 Mar 1970
 - KILBOURNE, LORELEI: 17 Jul 1970
 - [King, Zalman](https://en.wikipedia.org/wiki/Zalman_King): 3 Apr 1970
+- Kirby, Brian: 31 Jul 1970
 - [Kirk, Claude, Jr.](https://en.wikipedia.org/wiki/Claude_R._Kirk_Jr.): 24 Apr 1970
 - Kirk, Jerome, letter from: 3 Jul 1970
 - [Klugman, Jack](https://en.wikipedia.org/wiki/Jack_Klugman): 3 Apr 1970
@@ -316,6 +320,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Mars, Kenneth](https://en.wikipedia.org/wiki/Kenneth_Mars): 3 Jul 1970
 - [Matthau, Walter](https://en.wikipedia.org/wiki/Walter_Matthau): 3 Apr 1970
 - Mattel, Inc.: 13 Mar 1970; 24 Apr 1970
+- [_Matt Lincoln_](https://en.wikipedia.org/wiki/Matt_Lincoln) (ABC): 31 Jul 1970
 - [_Mayberry R.F.D._](https://en.wikipedia.org/wiki/Mayberry_R.F.D.) (CBS): 1 May 1970
 - [McCaffrey, Anne](https://en.wikipedia.org/wiki/Anne_McCaffrey): 24 Apr 1970
 - [McCann, Chuck](https://en.wikipedia.org/wiki/Chuck_McCann): 3 Jul 1970
@@ -458,6 +463,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - SUNY: _see_ State University of New York
 - _Survivors, The_: see _Harold Robbins' The Survivors_
 - [Susskind, David](https://en.wikipedia.org/wiki/David_Susskind): 22 May 1970
+- [Synanon](https://en.wikipedia.org/wiki/Synanon): 31 Jul 1970
 
 ## T
 
