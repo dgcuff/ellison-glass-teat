@@ -1,6 +1,6 @@
 **Copyright 2025 by Douglas Cuff.** 
 
-:warning: Do not reproduce. Just because the technology makes it _possible_ to make a copy does ==not== make it _legal_ or _okay_ to make a copy.
+:warning: Do not reproduce. Just because the technology makes it _possible_ to make a copy does not make it _legal_ or _okay_ to make a copy.
 
 # The Glass Teat by Harlan Ellison
 
@@ -39,6 +39,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 - Baez, Joan: 17 Jul 1970
 - [Bagni, Gwen](https://en.wikipedia.org/wiki/Gwen_Bagni): 26 Jun 1970
+- [Baker, Art](https://en.wikipedia.org/wiki/Art_Baker_(actor)): 24 Jul 1970
 - [Ball, Lucille](https://en.wikipedia.org/wiki/Lucille_Ball): 13 Feb 1970: 13 Mar 1970
 - Banaducci, Joe: _see_ Bonaduce, Joseph
 - Bank of America Corporation: 6 Mar 1970; 26 Jun 1970
@@ -50,6 +51,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - BBC: _see_ British Broadcasting Corporation
 - Beatles, The: 6 Mar 1970; 3 Jul 1970
 - [Benjamin, Richard](https://en.wikipedia.org/wiki/Richard_Benjamin): 3 Jul 1970
+- Beverly Glen neighbourhood, Los Angeles, California: 24 Jul 1970
 - [_Beverly Hillbillies, The_](https://en.wikipedia.org/wiki/The_Beverly_Hillbillies) (CBS): 1 May 1970
 - [_Bewitched_](https://en.wikipedia.org/wiki/Bewitched) (ABC): 1 May 1970
 - [_Big Town_](https://en.wikipedia.org/wiki/Big_Town): 17 Jul 1970
@@ -104,8 +106,9 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Chevron Corporation: _see_ Standard Oil Company of California; _see also_ F-310 gasoline additive
 - [Chicago riots (1968)](https://en.wikipedia.org/wiki/1968_Chicago_riots): 20 Feb 1970
 - [Chicago Seven](https://en.wikipedia.org/wiki/Chicago_Seven): 6 Mar 1970; 24 Apr 1970; 1 May 1970 (as "Chicago Conspiracy")
-- Chuck Barris Productions: 3 Jul 1970
+- Chuck Barris Productions: 3 Jul 1970; 24 Jul 1970
 - [_Cimmaron Strip_](https://en.wikipedia.org/wiki/Cimarron_Strip) (CBS): 1 May 1970
+- [Cinnamon Cinder](https://en.wikipedia.org/wiki/Cinnamon_Cinder): 24 Jul 1970
 - Clark, Ramsey: 17 Jul 1970
 - [Clarke, Arthur C.](https://en.wikipedia.org/wiki/Arthur_C._Clarke): 24 Apr 1970
 - Cleaver, Eldridge: 17 Jul 1970
@@ -129,11 +132,12 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Daley, Richard J.: 20 Feb 1970
 - Dallas, Texas: 8 May 1970
 - [_Danny Thomas Hour, The_](https://en.wikipedia.org/wiki/The_Danny_Thomas_Hour) (NBC): 3 Apr 1970 (as "_Danny Thomas Melodrama Century_")
-- [_Dating Game, The_](https://en.wikipedia.org/wiki/The_Dating_Game) (ABC): 3 Jul 1970
+- [_Dating Game, The_](https://en.wikipedia.org/wiki/The_Dating_Game) (ABC): 3 Jul 1970; 24 Jul 1970
 - [Day, Doris](https://en.wikipedia.org/wiki/Doris_Day): 3 Apr 1970
 - _Day They Closed Down the Schools, The_: 13 Feb 1970
 - defanged dissent: 17 Jul 1970
 - [_Defenders, The_](https://en.wikipedia.org/wiki/The_Defenders_(1961_TV_series)) (CBS): 1 May 1970
+- De Wolfe, Anne: 24 Jul 1970
 - [_Dial Hot Line_](https://en.wikipedia.org/wiki/Dial_Hot_Line) made-for-TV movie (Universal, aired ABC): 3 Apr 1970
 - [Dickinson, Angie](https://en.wikipedia.org/wiki/Angie_Dickinson): 20 Mar 1970
 - [Dickson, Gordon](https://en.wikipedia.org/wiki/Gordon_R._Dickson): 24 Apr 1970
@@ -179,6 +183,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Fontana, Dorothy](https://en.wikipedia.org/wiki/D._C._Fontana): 1 May 1970
 - [_Forsyte Saga, The_](https://en.wikipedia.org/wiki/The_Forsyte_Saga_(1967_TV_series)) (BBC): 19 Jun 1970
 - Fort Worth, Texas: 8 May 1970
+- Frascati restaurant: 24 Jul 1970
 - [FRIDAY, JOE](https://en.wikipedia.org/wiki/Joe_Friday), SERGEANT: 26 Jun 1970
 - [Frost, David](https://en.wikipedia.org/wiki/David_Frost): 15 May 1970
 - ["Fun and Games"](https://en.wikipedia.org/wiki/Fun_and_Games_(The_Outer_Limits))  ([_The Outer Limits_](https://en.wikipedia.org/wiki/The_Outer_Limits_(1963_TV_series)) episode): 20 Mar 1970
@@ -392,6 +397,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Reagan, Ronald: 24 Apr 1970; 15 May 1970; 19 Jun 1970; 17 Jul 1970
 - [Reddin, Tom](https://en.wikipedia.org/wiki/Thomas_Reddin): 19 Jun 1970; 26 Jun 1970; 17 Jul 1970
 - REID, BRITT: 17 Jul 1970
+- Reinholz, Mary: 24 Jul 1970
 - _Return of the Smothers Brothers, The_ (ABC): 17 Jul 1970
 - Richards, Dick, interviewed in _The New York Times_: 22 May 1970
 - [_Ripcord_](https://en.wikipedia.org/wiki/Ripcord_(TV_series)) (syndication): 1 May 1970
@@ -406,6 +412,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 ## S
 
 - [_Satan Bug, The_](https://www.imdb.com/title/tt0059678) (United Artists): 1 May 1970
+- Scandia restaurant: 24 Jul 1970
 - [_Scanlan's Monthly_](https://en.wikipedia.org/wiki/Scanlan's_Monthly) magazine: 6 Mar 1970; 17 Jul 1970
 - Scharf, Henry: 8 May 1970
 - Schermie, Joe: 8 May 1970
@@ -431,6 +438,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_60 Minutes_](https://en.wikipedia.org/wiki/60_Minutes) (CBS): 22 May 1970
 - Sly and the Family Stone: 3 Jul 1970
 - [Smith, Howard K.](https://en.wikipedia.org/wiki/Howard_K._Smith): 15 May 1970; 22 May 1970; 17 Jul 1970
+- [Smith, Jack](https://en.wikipedia.org/wiki/Smilin%27_Jack_Smith): 24 Jul 1970
 - Smothers Brothers: see _The Smothers Brothers Comedy Hour_ (CBS) and _The Return of the Smothers Brothers_ (ABC)
 - Sneed, Floyd: 8 May 1970
 - [Specht, Bob](https://www.imdb.com/name/nm0817426/): 1 May 1970
@@ -455,6 +463,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 - "Tangerine" (song): 3 Jul 1970
 - Taylor, Geoffrey: 28 Aug 1970
+- Tegler, Aline, letter from: 24 Jul 1970
 - "Tell It All Brother" (song): 17 Jul 1970
 - Texaco lead-free gasoline: 22 May 1970; 3 Jul 1970; 17 Jul 1970
 - _Toast of the Town, The_: see _Ed Sullivan Show, The_
@@ -463,6 +472,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Three Dog Night: 8 May 1970
 - Tongyai, Thomas ("Tommy the Traveller"): 26 Jun 1970
 - "Trail of Tears" ([NET Playhouse](https://en.wikipedia.org/wiki/NET_Playhouse) episode): 19 Jun 1970
+- "tree house" residence of Harlan Ellison: 24 Jul 1970
 - [Trueblood, Guerdon](https://en.wikipedia.org/wiki/Guerdon_Trueblood): 20 Mar 1970; 1 May 1970
 - [_TV Guide_](https://en.wikipedia.org/wiki/TV_Guide_(magazine)) magazine: 1 May 1970; 22 May 1970; 17 Jul 1970
 - [_21st Century, The_](https://en.wikipedia.org/wiki/The_Twentieth_Century) (CBS): 1 May 1970
@@ -485,6 +495,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Vallacher, Kitty: 6 Mar 1970
 - [_Variety_](https://en.wikipedia.org/wiki/Variety_(magazine)) magazine: 27 Mar 1970; 29 May 1970
 - [Velvel, Lawrence](https://exhibits.lib.ku.edu/exhibits/show/the-year-that-rocked-ku/vietnam-war-protest): 24 Apr 1970
+- Victory Drive-In Theater: 24 Jul 1970
 - "Video Voyeurism": 13 Mar 1970 (Part One); 27 Mar 1970 (Part Two)
 - Vietnam War: _see_ Cambodian incursion by the United States; Canada as a destination for American draft evaders; draft board; Laos, US bombing campaigh in; My Lai mass-murder war crime; _passim_
 - Viewer Sponsored Television Foundation: 19 Jun 1970; 3 Jul 1970
@@ -506,7 +517,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Wilson, Flip](https://en.wikipedia.org/wiki/Flip_Wilson): 17 Jul 1970
 - [Wilson, Richard](https://en.wikipedia.org/wiki/Richard_L._Wilson): 29 May 1970
 - [Wolfe, Bernard](https://en.wikipedia.org/wiki/Bernard_Wolfe): 1 May 1970
-- Women's Liberation: 17 Jul 1970
+- Women's Liberation: 17 Jul 1970; 24 Jul 1970
 - [Woodstock Nation](https://en.wikipedia.org/wiki/Woodstock_Nation): 6 Mar 1970
 - [Wood, William](https://www.imdb.com/name/nm0940083): 1 May 1970
 - _Write for your Life_: 3 Jul 1970
@@ -520,6 +531,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 ## Y
 
+- [_You Asked for It_](https://en.wikipedia.org/wiki/You_Asked_for_It) (DuMont, CBS): 24 Jul 1970
 - [_Young Lawyers, The_](https://en.wikipedia.org/wiki/The_Young_Lawyers) series (ABC): 3 Apr 1970
 - [_Young Lawyers, The_](https://www.imdb.com/title/tt0065232/) pilot "mini-movie" (ABC): 3 Apr 1970
 - [_Young Rebels, The_](https://en.wikipedia.org/wiki/The_Young_Rebels) (ABC): 3 Apr 1970
@@ -535,6 +547,6 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 ----
 
-:warning: Do not reproduce. Just because the technology makes it _possible_ to make a copy does ==not== make it _legal_ or _okay_ to make a copy.
+:warning: Do not reproduce. Just because the technology makes it _possible_ to make a copy does not make it _legal_ or _okay_ to make a copy.
 
 **Copyright 2025 by Douglas Cuff.** 
