@@ -16,7 +16,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Aaron Spelling Productions (Spelling Television): 20 Mar 1970
 - [_Adam-12_](https://en.wikipedia.org/wiki/Adam-12) (NBC): 26 Jun 1970
 - [Adams, Nick](https://en.wikipedia.org/wiki/Nick_Adams_(actor,_born_1931)): 20 Mar 1970
-- Agnew, Spiro: 20 Feb 1970; 27 Feb 1970; 3 Apr 1970; 15 May 1970; 22 May 1970; 29 May 1970; 19 Jun 1970; 17 Jul 1970
+- Agnew, Spiro: 20 Feb 1970; 27 Feb 1970; 3 Apr 1970; 15 May 1970; 22 May 1970; 29 May 1970; 19 Jun 1970; 17 Jul 1970; 21 Aug 1970
 - [Allen, Irwin](https://en.wikipedia.org/wiki/Irwin_Allen): 3 Apr 1970
 - [Allen, Woody](https://en.wikipedia.org/wiki/Woody_Allen): 27 Mar 1970
 - Allsup, Michael: 8 May 1970
@@ -28,6 +28,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Anderson, Jack](https://en.wikipedia.org/wiki/Jack_Anderson_(columnist)): 29 May 1970
 - [_Andersonville Trial, The_](https://en.wikipedia.org/wiki/The_Andersonville_Trial) (NET): 19 Jun 1970
 - [Anhalt, Edward](https://en.wikipedia.org/wiki/Edward_Anhalt): 1 May 1970
+- anti-intellectualism: 14 Aug 1970; 21 Aug 1970
 - [_Archies, The_](https://en.wikipedia.org/wiki/The_Archie_Show) (CBS): 27 Feb 1970
 - ["Arena"](https://en.wikipedia.org/wiki/Arena_(short_story)) (short story by Fredric Brown): 20 Mar 1970
 - [Arnold, Danny](https://en.wikipedia.org/wiki/Danny_Arnold): 10 Jul 1970
@@ -52,6 +53,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Battle of Attu: 7 Aug 1970
 - [_Battle of the Bulge, The_](https://www.imdb.com/title/tt0058947/) (distr. Warner Bros.): 20 Mar 1970
 - BBC: _see_ British Broadcasting Corporation
+- [_B.C._](https://en.wikipedia.org/wiki/B.C._(comic_strip)) (comic strip): 21 Aug 1970
 - Beatles, The: 6 Mar 1970; 3 Jul 1970
 - [Benjamin, Richard](https://en.wikipedia.org/wiki/Richard_Benjamin): 3 Jul 1970
 - Beverly Glen neighbourhood, Los Angeles, California: 24 Jul 1970
@@ -108,7 +110,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Cavett, Dick](https://en.wikipedia.org/wiki/Dick_Cavett): 17 Jul 1970
 - [_CBS Evening News with Walter Cronkite, The_](https://en.wikipedia.org/wiki/CBS_Evening_News): 29 May 1970; 26 Jun 1970
 - censorship: 10 Jul 1970
-- [_Challenge, The_](https://en.wikipedia.org/wiki/The_Challenge_(1970_film)) made-for-TV movie (ABC): 7 Aug 1970
+- [_Challenge, The_](https://en.wikipedia.org/wiki/The_Challenge_(1970_film)) made-for-TV movie (ABC): 7 Aug 1970; 21 Aug 1970
 - [Chandler, Len](https://en.wikipedia.org/wiki/Len_Chandler): 3 Jul 1970; 17 Jul 1970
 - [Chapman, Leigh](https://en.wikipedia.org/wiki/Leigh_Chapman): 21 Mar 1969
 - [Checkmates, Ltd., The](https://en.wikipedia.org/wiki/Checkmates,_Ltd.): 17 Jul 1970
@@ -123,7 +125,8 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Cleaver, Eldridge: 17 Jul 1970
 - [Cobb, Lee J.](https://en.wikipedia.org/wiki/Lee_J._Cobb): 3 Apr 1970
 - Cocker, Joe: 3 Jul 1970; 17 Jul 1970
-- "Common Man, The": 22 May 1970 ("Part III" - annotation by reader Harold Conrad)
+- columns, named: _see_ "Common Man, The"; "Day of the Yahoo"; "Video Voyeurism"
+- "Common Man, The" columns: 17 Oct 1969 (Part I); 25 October 1969 (Part II); 22 May 1970 ("Part III" - annotation by reader Harold Conrad)
 - "Concerned Viewer" (pseudonym), letter from: 1 May 1970
 - Concerts West (Anschutz Entertainment Group): 8 May 1970
 - Conrad, Harold, letter from: 22 May 1970
@@ -147,7 +150,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Dating Game, The_](https://en.wikipedia.org/wiki/The_Dating_Game) (ABC): 3 Jul 1970; 24 Jul 1970
 - [_David Frost Show, The_](https://www.imdb.com/title/tt0063890) (Group W): 14 Aug 1970
 - [Day, Doris](https://en.wikipedia.org/wiki/Doris_Day): 3 Apr 1970
-- "Day of the Yahoo": 14 Aug 1970 (Part One); 21 Aug 70 (Part Two)
+- "Day of the Yahoo" columns: 14 Aug 1970 (Part One); 21 Aug 70 (Part Two)
 - _Day They Closed Down the Schools, The_: 13 Feb 1970
 - defanged dissent: 17 Jul 1970
 - [_Defenders, The_](https://en.wikipedia.org/wiki/The_Defenders_(1961_TV_series)) (CBS): 1 May 1970
@@ -158,7 +161,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Dion: 3 Jul 1970
 - Dirksen, Everett: 21 Aug 1970
 - Dr. Dentons brand blanket sleeper pyjamas: 13 Feb 1970
-- "Dogging It in the Great American Heartland": 8 May 1970
+- "Dogging It in the Great American Heartland" article written for _Show_ magazine: 8 May 1970
 - _Do It Now!_ (Chuck Barris Productions): 3 Jul 1970
 - [Donlevy, Brian](https://en.wikipedia.org/wiki/Brian_Donlevy): 8 May 1970
 - Donovan: 3 Jul 1970
@@ -167,6 +170,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - draft board (United States Selective Service System): 15 May 1970
 - [_Dragnet_](https://en.wikipedia.org/wiki/Dragnet_(1951_TV_series)) (NBC): 26 Jun 1970
 - [Dubov, Paul](https://en.wikipedia.org/wiki/Paul_Dubov): 10 Jul 1970
+- Durant, Will and Ariel: 21 Aug 1970
 
 ## E
 
@@ -179,7 +183,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Elliott, Bob: _see_ Bob & Ray
 - Ellison, Beverly C. (later Rabnick): 10 Jul 1970
 - Ellison, Serita: 15 May 1970
-- [Elman, Irving](https://www.imdb.com/name/nm0255371/): 7 Aug 1970
+- [Elman, Irving](https://www.imdb.com/name/nm0255371/): 7 Aug 1970; 21 Aug 1970
 - [_Engelbert Humperdinck Show, The_](https://www.imdb.com/title/tt0065291) (ATV, bcast. ABC): 3 Apr 1970
 - [Epstein, Jon](https://www.imdb.com/name/nm0258486): 1 May 1970
 - Everly Brothers, The: 17 Jul 1970
@@ -242,7 +246,9 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Happy Days_](https://www.imdb.com/title/tt0065297) comedy-variety show (CBS): 3 Jul 1970; 14 Aug 1970
 - [Hard Hat Riot](https://en.wikipedia.org/wiki/Hard_Hat_Riot): 22 May 1970
 - [_Harold Robbins The Survivors_](https://en.wikipedia.org/wiki/Harold_Robbins%27_The_Survivors) (ABC): 13 Feb 1970
+- [Hart, Johnny](https://en.wikipedia.org/wiki/Johnny_Hart): 21 Aug 1970
 - Hasbro, Inc.: _see_ Kenner Products
+- Hatfield-McGovern Amendment: 21 Aug 1970
 - [_He & She_](https://en.wikipedia.org/wiki/He_%26_She) (CBS): 3 Jul 1970
 - [_Hee Haw_](https://en.wikipedia.org/wiki/Hee_Haw) (CBS): 3 Jul 1970; 14 Aug 1970
 - [_Hello, Dolly!_](https://www.imdb.com/title/tt0064418/reference/?ref_=fn_all_ttl_1) (Twentieth Century Fox): 20 Mar 1970
@@ -321,13 +327,14 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Lawrence, Tony: 20 Mar 1970
 - [_Lawrence Welk Show, The_](https://en.wikipedia.org/wiki/The_Lawrence_Welk_Show) (ABC): 19 Jun 1970
 - [Lemmon, Jack](https://en.wikipedia.org/wiki/Jack_Lemmon): 3 Apr 1970
-- Leopold and Loeb: 7 Aug 1970
+- Leopold and Loeb: 7 Aug 1970; 21 Aug 1970
+- _Lessons of History, The_ (Simon & Schuster, 1968): 21 Aug 1970
 - [Lester, Jerry](https://en.wikipedia.org/wiki/Jerry_Lester): 14 Aug 1970
 - Lester, Seeleg: 20 Mar 1970
 - [Lewis, Jerry](https://en.wikipedia.org/wiki/Jerry_Lewis): 13 Feb 1970
 - Liggett & Myers Tobacco Company (Liggett Group): 20 Feb 1970
 - [Litto, Frederick](https://exhibits.lib.ku.edu/exhibits/show/the-year-that-rocked-ku/vietnam-war-protest): 24 Apr 1970
-- "Lonely Voice of Youth Asks What is Truth, The": _see_ "What is Truth"
+- "Lonely Voice of Youth Asks What is Truth, The" (song): _see_ "What is Truth" (song)
 - [Long, Richard](https://en.wikipedia.org/wiki/Richard_Long_(actor)): 13 Feb 1970
 - Los Angeles Unified School District: 19 Jun 1970
 - Louise (girlfriend of HE): 13 Feb 1970
@@ -351,13 +358,13 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Mars, Kenneth](https://en.wikipedia.org/wiki/Kenneth_Mars): 3 Jul 1970
 - [Matthau, Walter](https://en.wikipedia.org/wiki/Walter_Matthau): 3 Apr 1970
 - Mattel, Inc.: 13 Mar 1970; 24 Apr 1970
-- [_Matt Lincoln_](https://en.wikipedia.org/wiki/Matt_Lincoln) (ABC): 31 Jul 1970; 7 Aug 1970
+- [_Matt Lincoln_](https://en.wikipedia.org/wiki/Matt_Lincoln) (ABC): 31 Jul 1970; 7 Aug 1970; 21 Aug 1970
 - [_Mayberry R.F.D._](https://en.wikipedia.org/wiki/Mayberry_R.F.D.) (CBS): 1 May 1970; 14 Aug 1970
 - [McCaffrey, Anne](https://en.wikipedia.org/wiki/Anne_McCaffrey): 24 Apr 1970
 - [McCann, Chuck](https://en.wikipedia.org/wiki/Chuck_McCann): 3 Jul 1970
 - McCarthy, Joseph: 1 May 1970; 17 Jul 1970; 14 Aug 1970
 - [McCowan, George](https://en.wikipedia.org/wiki/George_McCowan): 20 Mar 1970
-- [McGavin, Darren](https://en.wikipedia.org/wiki/Darren_McGavin): 7 Aug 1970
+- [McGavin, Darren](https://en.wikipedia.org/wiki/Darren_McGavin): 7 Aug 1970; 21 Aug 1970
 - [McMahon, Ed](https://en.wikipedia.org/wiki/Ed_McMahon): 14 Aug 1970
 - McLuhan, Marshall: 8 May 1970; 22 May 1970
 - McPike, Gary: 8 May 1970
@@ -383,14 +390,15 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Nashville Music, That_](https://en.wikipedia.org/wiki/That_Nashville_Music) (syndication): 14 Aug 1970
 - [National Education Television](https://en.wikipedia.org/wiki/National_Educational_Television): 19 Jun 1970
 - [_National Geographic Specials_](https://www.imdb.com/title/tt0057775) (CBS): 17 Jul 1970
+- N'Ayudhya, Momluang Singkata Thomas Tongyai: _see_ Tongyai, Thomas; _see also_ Tommy the Traveler
 - Negron, Chuck: 8 May 1970
 - [_Newlywed Game, The_](https://en.wikipedia.org/wiki/The_Newlywed_Game) (ABC): 3 Jul 1970
 - New Orleans, Louisiana: 8 May 1970
 - _Newsical Muse, The_: 3 Jul 1970; 17 Jul 1970
 - [Nguyen Van Mot](https://wall.vietnamesemuseum.org/re-education-camp/nguyen-van-mot/): 29 May 1970
 - [Nimoy, Leonard](https://en.wikipedia.org/wiki/Leonard_Nimoy): 1 May 1970
-- Nixon, Richard: 20 Feb 1970; 27 Feb 1970; 6 Mar 1970; 15 May 1970; 29 May 1970
-- N'Ayudhya, Momluang Singkata Thomas Tongyai: _see_ Tongyai, Thomas; _see also_ Tommy the Traveler
+- Nixon, Richard: 20 Feb 1970; 27 Feb 1970; 6 Mar 1970; 15 May 1970; 29 May 1970; 21 Aug 1970
+- [Norman, Marc](https://en.wikipedia.org/wiki/Marc_Norman): 21 Aug 1970
 - [Nye, Louis](https://en.wikipedia.org/wiki/Louis_Nye): 3 Jul 1970
 
 ## O
@@ -402,7 +410,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Ohio State University: 15 May 1970
 - "Okie from Muskogee" (song): 17 Jul 1970
 - [Oldenbourg, Zoe](https://en.wikipedia.org/wiki/Zo%C3%A9_Oldenbourg): 27 Feb 1970
-- [_Oscar, The_](https://www.imdb.com/title/tt0060801) (Embassy Pictures): 3 Jul 1970
+- [_Oscar, The_](https://www.imdb.com/title/tt0060801) (Embassy Pictures): 3 Jul 1970; 21 Aug 1970
 - [_Outer Limits, The_](https://en.wikipedia.org/wiki/The_Outer_Limits_(1963_TV_series)) (ABC): 20 Mar 1970
 
 ## P
@@ -520,7 +528,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - "Tell It All Brother" (song): 17 Jul 1970
 - Texaco lead-free gasoline: 22 May 1970; 3 Jul 1970; 17 Jul 1970
 - _Toast of the Town, The_: see _Ed Sullivan Show, The_
-- "Tommy the Traveler" (undercover police officer): 26 Jun 1970
+- "Tommy the Traveler" (nom de guerre for undercover police officer Thomas Tongyai): 26 Jun 1970
 - [Thomas, Danny](https://en.wikipedia.org/wiki/Danny_Thomas): 3 Apr 1970
 - Three Dog Night: 8 May 1970
 - Tongyai, Thomas ("Tommy the Traveller"): 26 Jun 1970
@@ -554,7 +562,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Velvel, Lawrence](https://exhibits.lib.ku.edu/exhibits/show/the-year-that-rocked-ku/vietnam-war-protest): 24 Apr 1970
 - Vermeer, ?, sociologist: 26 Jun 1970
 - Victory Drive-In Theater: 24 Jul 1970
-- "Video Voyeurism": 13 Mar 1970 (Part One); 27 Mar 1970 (Part Two)
+- "Video Voyeurism" columns: 13 Mar 1970 (Part One); 27 Mar 1970 (Part Two)
 - Vietnam War: _see_ Cambodian incursion by the United States; Canada as a destination for American draft evaders; draft board; Laos, US bombing campaigh in; My Lai mass-murder war crime; _passim_
 - Viewer Sponsored Television Foundation: 19 Jun 1970; 3 Jul 1970
 - Virginia Slims brand cigarettes: 17 Jul 1970
@@ -577,7 +585,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Wilber, Carey](https://en.wikipedia.org/wiki/Carey_Wilber): 10 Jul 1970
 - [Wilson, Flip](https://en.wikipedia.org/wiki/Flip_Wilson): 17 Jul 1970
 - [Wilson, Richard](https://en.wikipedia.org/wiki/Richard_L._Wilson): 29 May 1970
-- Winston brand cigarette TV commercials: 14 Aug 1970
+- Winston brand cigarette TV commercials: 14 Aug 1970; 21 Aug 1970
 - [Wolfe, Bernard](https://en.wikipedia.org/wiki/Bernard_Wolfe): 1 May 1970
 - Women's Liberation: 17 Jul 1970; 24 Jul 1970
 - [Woodstock Nation](https://en.wikipedia.org/wiki/Woodstock_Nation): 6 Mar 1970
