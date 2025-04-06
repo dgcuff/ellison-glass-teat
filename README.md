@@ -41,7 +41,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Attu Island, Alaska: 7 Aug 1970
 - [Augusta riot](https://en.wikipedia.org/wiki/1970_Augusta_riot): 22 May 1970
 - Austin, Texas: 8 May 1970
-- [Avalon, Frankie](https://en.wikipedia.org/wiki/Frankie_Avalon): 4 Sep 1970
+- [Avalon, Frankie](https://en.wikipedia.org/wiki/Frankie_Avalon): 4 Sep 1970; 18 Sep 1970
 - _Awake and Sing!_: 24 Apr 1970
 
 ## B
@@ -64,6 +64,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Beatles, The: 6 Mar 1970; 3 Jul 1970
 - beauty pageants: 4 Sep 1970
 - [Benjamin, Richard](https://en.wikipedia.org/wiki/Richard_Benjamin): 3 Jul 1970
+- Bernard, Herbert, letter from: 18 Sep 1970
 - Beverly Glen neighbourhood, Los Angeles, California: 24 Jul 1970
 - [_Beverly Hillbillies, The_](https://en.wikipedia.org/wiki/The_Beverly_Hillbillies) (CBS): 1 May 1970; 14 Aug 1970
 - [_Bewitched_](https://en.wikipedia.org/wiki/Bewitched) (ABC): 1 May 1970
@@ -127,7 +128,8 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Checkmates, Ltd., The](https://en.wikipedia.org/wiki/Checkmates,_Ltd.): 17 Jul 1970
 - Chevron Corporation: _see_ Standard Oil Company of California; _see also_ F-310 gasoline additive
 - [Chicago riots (1968)](https://en.wikipedia.org/wiki/1968_Chicago_riots): 20 Feb 1970
-- [Chicago Seven](https://en.wikipedia.org/wiki/Chicago_Seven): 6 Mar 1970; 24 Apr 1970; 1 May 1970 (as "Chicago Conspiracy")
+- [Chicago Seven](https://en.wikipedia.org/wiki/Chicago_Seven): 6 Mar 1970; 24 Apr 1970; 1 May 1970 (as "Chicago Conspiracy"); 18 Sep 1970 (as "Chicago Conspiracy Trial")
+- Children’s Home Society of California: 18 Sep 1970
 - Chuck Barris Productions: 3 Jul 1970; 24 Jul 1970
 - [_Cimmaron Strip_](https://en.wikipedia.org/wiki/Cimarron_Strip) (CBS): 1 May 1970
 - Cindy (girlfriend of HE): 4 Sep 1970
@@ -277,6 +279,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Hope, Bob](https://en.wikipedia.org/wiki/Bob_Hope): 13 Feb 1970; 22 May 1970
 - [Hoffman, Abby](https://en.wikipedia.org/wiki/Abby_Hoffman): 24 Apr 1970
 - [Hoffman, Julius](https://en.wikipedia.org/wiki/Julius_Hoffman): 20 Feb 1970; 24 Apr 1970
+- [_Hogan's Heroes_](https://en.wikipedia.org/wiki/Hogan%27s_Heroes) (CBS): 18 Sep 1970
 - Holly, Buddy: 7 Aug 1970
 - [_Hollywood Reporter, The_](https://en.wikipedia.org/wiki/The_Hollywood_Reporter) magazine: 20 Mar 1970
 - [_Hospital_](https://en.wikipedia.org/wiki/Hospital_(1970_film)) (NET): 19 Jun 1970
@@ -295,7 +298,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - "I Believe" (song): 4 Sep 1970
 - "I Have a Dream" (song)": 17 Jul 1970
 - _Illustrated Press, The_ (fictional newspaper): 17 Jul 1970
-- _I'm 17, Pregnant and Frightened_ (television special): 4 Sep 1970
+- _I'm 17, I'm Pregnant... And I Don't Know What to Do_ (television special): 4 Sep 1970 (as "_I'm 17, Pregnant and Frightened_"); 18 Sep 1970
 - [_Immortal, The_](https://en.wikipedia.org/wiki/The_Immortal_(1970_TV_series)) (ABC): 3 Apr 1970
 - [Irwin, Lew](https://en.wikipedia.org/wiki/Lew_Irwin): 3 Jul 1970; 17 Jul 1970
 - Isla Vista, California: 17 Jul 1970
@@ -303,6 +306,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 ## J
 
+- James Irvine Foundation: 18 Sep 1970
 - Jefferson Airplane: 3 Jul 1970
 - [_Jimmy Durante Presents the Lennon Sisters_](https://en.wikipedia.org/wiki/Jimmy_Durante_Presents_the_Lennon_Sisters) (ABC): 3 Apr 1970
 - _Johnny Cash Presents the Everly Brothers_ (ABC): 17 Jul 1970
@@ -316,7 +320,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Karloff, Boris](https://en.wikipedia.org/wiki/Boris_Karloff): 31 Jul 1970
 - [Kaufman, Bobby](https://en.wikipedia.org/wiki/Robert_Kaufman): 1 May 1970
 - [Kazan, Elia](https://en.wikipedia.org/wiki/Elia_Kazan): 1 May 1970
-- [KCET](https://en.wikipedia.org/wiki/KCET): 19 Jun 1970; 3 Jul 1970
+- [KCET](https://en.wikipedia.org/wiki/KCET): 19 Jun 1970; 3 Jul 1970; 18 Sep 1970
 - Kennedy, Ethel (n&eacute;e Skakel): 14 Aug 1970
 - Kennedy, Jackie (n&eacute;e Bouvier): 14 Aug 1970
 - Kennedy, John F.: 14 Aug 1970
@@ -337,7 +341,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Knop, Patricia](https://en.wikipedia.org/wiki/Patricia_Louisianna_Knop): 11 Sep 1970
 - [Knopf, Christopher](https://en.wikipedia.org/wiki/Christopher_Knopf): 10 Jul 1970
 - [KRLA](https://en.wikipedia.org/wiki/KRLA) radio station: 17 Jul 1970
-- [KTTV](https://en.wikipedia.org/wiki/KTTV): 31 Jul 1970; 4 Sep 1970
+- [KTTV](https://en.wikipedia.org/wiki/KTTV): 31 Jul 1970; 4 Sep 1970; 18 Sep 1970
 
 ## L
 
@@ -347,10 +351,12 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - LANE, MARGO: 7 Aug 1970
 - Laos, US bombing campaigh in: 20 Mar 1970
 - La Rosa, Julius: 17 Jul 1970
+- Larsen, Denise: 18 Sep 1970
 - [_Law and Mr. Jones, The_](https://en.wikipedia.org/wiki/The_Law_and_Mr._Jones) (ABC): 1 May 1970
 - [Lawrence, Steve](https://en.wikipedia.org/wiki/Steve_Lawrence): 6 Mar 1970
 - Lawrence, Tony: 20 Mar 1970
 - [_Lawrence Welk Show, The_](https://en.wikipedia.org/wiki/The_Lawrence_Welk_Show) (ABC): 19 Jun 1970
+- [Lee Mendelson Film Productions](https://en.wikipedia.org/wiki/Lee_Mendelson_Film_Productions): 18 Sep 1970
 - [Lemmon, Jack](https://en.wikipedia.org/wiki/Jack_Lemmon): 3 Apr 1970
 - Leopold and Loeb: 7 Aug 1970; 21 Aug 1970
 - _Lessons of History, The_ (Simon &amp; Schuster, 1968): 21 Aug 1970
@@ -401,6 +407,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [McQueen, Steve](https://en.wikipedia.org/wiki/Steve_McQueen): 3 Apr 1970; 26 Jun 1970
 - ["Memo from Purgatory"](https://www.imdb.com/title/tt0394063) ([_Alfred Hitchcock Presents_](https://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents) episode): 11 Sep 1970
 - [_Merv Griffin Show, The_](https://en.wikipedia.org/wiki/The_Merv_Griffin_Show) (NBC, syndication, CBS): 14 Aug 1970
+- [Metromedia](https://en.wikipedia.org/wiki/Metromedia): 18 Sep 1970
 - [_Midsummer Rock_](https://en.wikipedia.org/wiki/Midsummer_Rock) (prod. Avco Broadcasting): 4 Sep 1970
 - [Milner, Martin](https://en.wikipedia.org/wiki/Martin_Milner): 26 Jun 1970
 - Miller, Dale, interviewed in _The New York Times_: 22 May 1970
@@ -447,7 +454,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - "Okie from Muskogee" (song): 17 Jul 1970
 - [Oldenbourg, Zoe](https://en.wikipedia.org/wiki/Zo%C3%A9_Oldenbourg): 27 Feb 1970
 - [_Oscar, The_](https://www.imdb.com/title/tt0060801) (Embassy Pictures): 3 Jul 1970; 21 Aug 1970
-- Our Little Miss child beauty pageant: 4 Sep 1970
+- Our Little Miss child beauty pageant: 4 Sep 1970; 18 Sep 1970
 - [_Outer Limits, The_](https://en.wikipedia.org/wiki/The_Outer_Limits_(1963_TV_series)) (ABC): 20 Mar 1970
 
 ## P
@@ -509,7 +516,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 ## S
 
-- [Salazar, Ruben](https://en.wikipedia.org/wiki/Ruben_Salazar): 11 Sep 1970
+- [Salazar, Ruben](https://en.wikipedia.org/wiki/Ruben_Salazar): 11 Sep 1970; 18 Sep 1970
 - [_Satan Bug, The_](https://www.imdb.com/title/tt0059678) (United Artists): 1 May 1970
 - Scandia restaurant: 24 Jul 1970
 - [_Scanlan's Monthly_](https://en.wikipedia.org/wiki/Scanlan's_Monthly) magazine: 6 Mar 1970; 17 Jul 1970
@@ -629,6 +636,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Wells, Cory: 8 May 1970
 - Willkie, Wendell: 7 Aug 1970
 - WGAw: _see_ Writers Guild of America West
+- "What is a Little Girl?" (poem): 18 Sep 1970
 - "What Is Truth" (song): 17 Jul 1970
 - [_Where's Huddles?_](https://en.wikipedia.org/wiki/Where%27s_Huddles%3F) (CBS): 14 Aug 1970
 - "Whimper of Whipped Dogs, The" ([_The Young Lawyers_](https://en.wikipedia.org/wiki/The_Young_Lawyers) episode): 11 Sep 1970
@@ -637,7 +645,8 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Wilson, Richard](https://en.wikipedia.org/wiki/Richard_L._Wilson): 29 May 1970
 - Winston brand cigarette TV commercials: 14 Aug 1970; 21 Aug 1970
 - [Wolfe, Bernard](https://en.wikipedia.org/wiki/Bernard_Wolfe): 1 May 1970
-- Women's Liberation: 17 Jul 1970; 24 Jul 1970; 4 Sep 1970
+- Women's Liberation: 17 Jul 1970; 24 Jul 1970; 4 Sep 1970; 18 Sep 1970
+- _Wonderful World of Disney, The_ (ABC, NBC): 18 Sep 1970 (as "_The World of Disney_")
 - [Woodstock Nation](https://en.wikipedia.org/wiki/Woodstock_Nation): 6 Mar 1970
 - [Wood, William](https://www.imdb.com/name/nm0940083): 1 May 1970
 - _Write for your Life_: 3 Jul 1970
@@ -655,7 +664,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Yorty, Sam: 11 Sep 1970`
 - [_Young Lawyers, The_](https://en.wikipedia.org/wiki/The_Young_Lawyers) series (ABC): 3 Apr 1970; 11 Sep 1970
 - [_Young Lawyers, The_](https://www.imdb.com/title/tt0065232/) pilot "mini-movie" (ABC): 3 Apr 1970; 11 Sep 1970
-- [_Young Rebels, The_](https://en.wikipedia.org/wiki/The_Young_Rebels) (ABC): 3 Apr 1970
+- [_Young Rebels, The_](https://en.wikipedia.org/wiki/The_Young_Rebels) (ABC): 3 Apr 1970; 18 Sep 1970
 
 ## Z
 
