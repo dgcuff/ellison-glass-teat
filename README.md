@@ -28,6 +28,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Anderson, Jack](https://en.wikipedia.org/wiki/Jack_Anderson_(columnist)): 29 May 1970
 - [_Andersonville Trial, The_](https://en.wikipedia.org/wiki/The_Andersonville_Trial) (NET): 19 Jun 1970
 - [Anhalt, Edward](https://en.wikipedia.org/wiki/Edward_Anhalt): 1 May 1970
+- "Animal Crackers in My Soup" (song): 4 Sep 1970
 - anti-intellectualism: 14 Aug 1970; 21 Aug 1970
 - [_Archies, The_](https://en.wikipedia.org/wiki/The_Archie_Show) (CBS): 27 Feb 1970
 - ["Arena"](https://en.wikipedia.org/wiki/Arena_(short_story)) (short story by Fredric Brown): 20 Mar 1970
@@ -36,6 +37,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Attu Island, Alaska: 7 Aug 1970
 - [Augusta riot](https://en.wikipedia.org/wiki/1970_Augusta_riot): 22 May 1970
 - Austin, Texas: 8 May 1970
+- [Avalon, Frankie](https://en.wikipedia.org/wiki/Frankie_Avalon): 4 Sep 1970
 - _Awake and Sing!_: 24 Apr 1970
 
 ## B
@@ -55,6 +57,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - BBC: _see_ British Broadcasting Corporation
 - [_B.C._](https://en.wikipedia.org/wiki/B.C._(comic_strip)) (comic strip): 21 Aug 1970
 - Beatles, The: 6 Mar 1970; 3 Jul 1970
+- beauty pageants: 4 Sep 1970
 - [Benjamin, Richard](https://en.wikipedia.org/wiki/Richard_Benjamin): 3 Jul 1970
 - Beverly Glen neighbourhood, Los Angeles, California: 24 Jul 1970
 - [_Beverly Hillbillies, The_](https://en.wikipedia.org/wiki/The_Beverly_Hillbillies) (CBS): 1 May 1970; 14 Aug 1970
@@ -119,6 +122,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Chicago Seven](https://en.wikipedia.org/wiki/Chicago_Seven): 6 Mar 1970; 24 Apr 1970; 1 May 1970 (as "Chicago Conspiracy")
 - Chuck Barris Productions: 3 Jul 1970; 24 Jul 1970
 - [_Cimmaron Strip_](https://en.wikipedia.org/wiki/Cimarron_Strip) (CBS): 1 May 1970
+- Cindy (girlfriend of HE): 4 Sep 1970
 - [Cinnamon Cinder](https://en.wikipedia.org/wiki/Cinnamon_Cinder): 24 Jul 1970
 - Clark, Ramsey: 17 Jul 1970
 - [Clarke, Arthur C.](https://en.wikipedia.org/wiki/Arthur_C._Clarke): 24 Apr 1970
@@ -220,7 +224,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Georgia Black citizens killed: _see_ Augusta riot
 - [_Ghost & Mrs. Muir, The_](https://en.wikipedia.org/wiki/The_Ghost_%26_Mrs._Muir_(TV_series)) (NBC, ABC): 3 Apr 1970
 - [_Gilligan's Island_](https://en.wikipedia.org/wiki/Gilligan%27s_Island) (CBS): 13 Feb 1970
-- girlfriends of Harlan Ellison: _see_ Chapman, Leigh; Louise
+- girlfriends of Harlan Ellison: _see_ Cindy; Chapman, Leigh; Louise
 - [Gleason, Jackie](https://en.wikipedia.org/wiki/Jackie_Gleason): 6 Mar 1970
 - Glicksohn, Mike, letter from: 22 May 1970
 - [_Gomer Pyle - USMC_](https://en.wikipedia.org/wiki/Gomer_Pyle_%E2%80%93_USMC) (CBS): 13 Feb 1970
@@ -268,6 +272,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Houston, Texas: 8 May 1970
 - [Hoyle, Fred](https://en.wikipedia.org/wiki/Fred_Hoyle): 20 Mar 1070
 - HUAC: _see_ House Un-American Activities Committee
+- Huffaker, Lauri Lynn, contestant: 4 Sep 1970
 - Hughes, Mrs. William: 3 Jul 1970
 - Humperdinck, Engelbert: see _The Engelbert Humperdinck Show_
 - [Hunter, Meredith](https://en.wikipedia.org/wiki/Killing_of_Meredith_Hunter): 6 Mar 1970
@@ -275,8 +280,10 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 ## I
 
+- "I Believe" (song): 4 Sep 1970
 - "I Have a Dream" (song)": 17 Jul 1970
 - _Illustrated Press, The_ (fictional newspaper): 17 Jul 1970
+- _I'm 17, Pregnant and Frightened_ (television special): 4 Sep 1970
 - [_Immortal, The_](https://en.wikipedia.org/wiki/The_Immortal_(1970_TV_series)) (ABC): 3 Apr 1970
 - [Irwin, Lew](https://en.wikipedia.org/wiki/Lew_Irwin): 3 Jul 1970; 17 Jul 1970
 - Isla Vista, California: 17 Jul 1970
@@ -314,9 +321,11 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Koch, Richard K., letter from: 6 Mar 1970
 - Koupal, Edwin: 3 Jul 1970
 - [Knopf, Christopher](https://en.wikipedia.org/wiki/Christopher_Knopf): 10 Jul 1970
+- [KTTV](https://en.wikipedia.org/wiki/KTTV): 4 Sep 1970
 
 ## L
 
+- LAMB CHOP: 4 Sep 1970
 - [_Land of the Giants_](https://en.wikipedia.org/wiki/Land_of_the_Giants) (ABC): 27 Feb 1970; 3 Apr 1970; 1 May 1970
 - [Lane, Mark](https://en.wikipedia.org/wiki/Mark_Lane_(author)): 17 Jul 1970
 - LANE, MARGO: 7 Aug 1970
@@ -332,6 +341,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Lester, Jerry](https://en.wikipedia.org/wiki/Jerry_Lester): 14 Aug 1970
 - Lester, Seeleg: 20 Mar 1970
 - [Lewis, Jerry](https://en.wikipedia.org/wiki/Jerry_Lewis): 13 Feb 1970
+- [Lewis, Shari](https://en.wikipedia.org/wiki/Shari_Lewis): 4 Sep 1970
 - Liggett & Myers Tobacco Company (Liggett Group): 20 Feb 1970
 - [Litto, Frederick](https://exhibits.lib.ku.edu/exhibits/show/the-year-that-rocked-ku/vietnam-war-protest): 24 Apr 1970
 - "Lonely Voice of Youth Asks What is Truth, The" (song): _see_ "What is Truth" (song)
@@ -344,10 +354,12 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Lubbock, Texas: 8 May 1970
 - Lucks (or Luck?), Louise, letter from: 3 Apr 1970
 - [_Lucy Show, The_](https://en.wikipedia.org/wiki/The_Lucy_Show) (CBS): 13 Feb 1970; 1 May 1970
+- Lynn, Mr., pageant master of ceremonies: 4 Sep 1970
 
 ## M
 
 - [MacDougall, Ranald](https://en.wikipedia.org/wiki/Ranald_MacDougall): 10 Jul 1970
+- Mack, Ted: see _Ted Mack & the Original Amateur Hour_
 - Maddox, Lester, Sr.: 24 Apr 1970
 - Malcolm X: 17 Jul 1970
 - Mamas & the Papas, The: _see_ Elliot, Cass
@@ -355,6 +367,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [_Man from U.N.C.L.E., The_](https://en.wikipedia.org/wiki/The_Man_from_U.N.C.L.E.) (NBC): 1 May 1970
 - [Manson, Charlie](https://en.wikipedia.org/wiki/Charles_Manson): 1 May 1970
 - March of Dimes: 17 Jul 1970
+- "March of the Toy Soliders" (song): 4 Sep 1970 (as "March of the Wooden Soliders")
 - [Mars, Kenneth](https://en.wikipedia.org/wiki/Kenneth_Mars): 3 Jul 1970
 - [Matthau, Walter](https://en.wikipedia.org/wiki/Walter_Matthau): 3 Apr 1970
 - Mattel, Inc.: 13 Mar 1970; 24 Apr 1970
@@ -370,10 +383,12 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - McPike, Gary: 8 May 1970
 - [McQueen, Steve](https://en.wikipedia.org/wiki/Steve_McQueen): 3 Apr 1970; 26 Jun 1970
 - [_Merv Griffin Show, The_](https://en.wikipedia.org/wiki/The_Merv_Griffin_Show) (NBC, syndication, CBS): 14 Aug 1970
+- [_Midsummer Rock_](https://en.wikipedia.org/wiki/Midsummer_Rock) (prod. Avco Broadcasting): 4 Sep 1970
 - [Milner, Martin](https://en.wikipedia.org/wiki/Martin_Milner): 26 Jun 1970
 - Miller, Dale, interviewed in _The New York Times_: 22 May 1970
 - [Mills, Juliet](https://en.wikipedia.org/wiki/Juliet_Mills): 13 Feb 1970
 - [Milne, Lorus J.](https://fr.wikipedia.org/wiki/Lorus_Milne) and Margery (nee Greene): 27 Feb 1970
+- Miss America beauty pageant: 4 Sep 1970
 - Mitchell, John N. (U.S. Attorney General): 15 May 1970
 - Mitchell, Mrs. (Martha n&eacute;e Beall?): 17 Jul 1970
 - [Mitchell, Scoey](https://en.wikipedia.org/wiki/Scoey_Mitchell): 3 Apr 1970
@@ -397,6 +412,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - _Newsical Muse, The_: 3 Jul 1970; 17 Jul 1970
 - [Nguyen Van Mot](https://wall.vietnamesemuseum.org/re-education-camp/nguyen-van-mot/): 29 May 1970
 - [Nimoy, Leonard](https://en.wikipedia.org/wiki/Leonard_Nimoy): 1 May 1970
+- [_1985_](https://www.imdb.com/title/tt3612398) (prod. Metromedia Television): 4 Sep 1970
 - Nixon, Richard: 20 Feb 1970; 27 Feb 1970; 6 Mar 1970; 15 May 1970; 29 May 1970; 21 Aug 1970
 - [Norman, Marc](https://en.wikipedia.org/wiki/Marc_Norman): 21 Aug 1970
 - [Nye, Louis](https://en.wikipedia.org/wiki/Louis_Nye): 3 Jul 1970
@@ -411,6 +427,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - "Okie from Muskogee" (song): 17 Jul 1970
 - [Oldenbourg, Zoe](https://en.wikipedia.org/wiki/Zo%C3%A9_Oldenbourg): 27 Feb 1970
 - [_Oscar, The_](https://www.imdb.com/title/tt0060801) (Embassy Pictures): 3 Jul 1970; 21 Aug 1970
+- Our Little Miss child beauty pageant: 4 Sep 1970
 - [_Outer Limits, The_](https://en.wikipedia.org/wiki/The_Outer_Limits_(1963_TV_series)) (ABC): 20 Mar 1970
 
 ## P
@@ -450,7 +467,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - Reagan, Ronald: 24 Apr 1970; 15 May 1970; 19 Jun 1970; 17 Jul 1970; 14 Aug 1970
 - [Reddin, Tom](https://en.wikipedia.org/wiki/Thomas_Reddin): 19 Jun 1970; 26 Jun 1970; 17 Jul 1970
 - REID, BRITT: 17 Jul 1970
-- Reinholz, Mary: 24 Jul 1970
+- Reinholz, Mary: 24 Jul 1970; 4 Sep 1970
 - _Return of the Smothers Brothers, The_ (ABC): 17 Jul 1970
 - Richards, Dick, interviewed in _The New York Times_: 22 May 1970
 - [_Ripcord_](https://en.wikipedia.org/wiki/Ripcord_(TV_series)) (syndication): 1 May 1970
@@ -459,8 +476,10 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Rodriguez, Percy](https://en.wikipedia.org/wiki/Percy_Rodriguez): 1 May 1970
 - [Robbins, Harold](https://en.wikipedia.org/wiki/Harold_Robbins): 14 Aug 1970
 - Rolling Stones, The: 6 Mar 1970
+- Royalty Toys: 4 Sep 1970
 - Rosen, Martha, letter from: 7 Aug 1970
 - Ruble, Don, interviewed in _The New York Times_: 22 May 1970
+- Rusan, Mae, contestant: 4 Sep 1970
 - Russell, Leon: 3 Jul 1970
 - [Russell, Nipsey](https://en.wikipedia.org/wiki/Nipsey_Russell): 3 Apr 1970
 
@@ -524,9 +543,11 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 
 - "Tangerine" (song): 3 Jul 1970
 - Taylor, Geoffrey: 28 Aug 1970
+- [_Ted Mack & the Original Amateur Hour_](https://www.imdb.com/title/tt0246379) (DuMont, NBC, ABC, CBS): 4 Sep 1970
 - Tegler, Aline, letter from: 24 Jul 1970
 - "Tell It All Brother" (song): 17 Jul 1970
 - Texaco lead-free gasoline: 22 May 1970; 3 Jul 1970; 17 Jul 1970
+- "Thank Heaven for Little Girls" (song): 4 Sep 1970
 - _Toast of the Town, The_: see _Ed Sullivan Show, The_
 - "Tommy the Traveler" (nom de guerre for undercover police officer Thomas Tongyai): 26 Jun 1970
 - [Thomas, Danny](https://en.wikipedia.org/wiki/Danny_Thomas): 3 Apr 1970
@@ -547,6 +568,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - unions: _see_ Producers Guild of America; Writers Guild of America West
 - Universal City Studios: 20 Feb 1970
 - Universal Pictures: 7 Aug 1970
+- Universal Television Network: 4 Sep 1970
 - University of California, Irvine: 6 Mar 1970
 - University of Kansas: 24 Apr 1970
 - Univerity of Kent State: _see_ Kent State shootings
@@ -587,7 +609,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Wilson, Richard](https://en.wikipedia.org/wiki/Richard_L._Wilson): 29 May 1970
 - Winston brand cigarette TV commercials: 14 Aug 1970; 21 Aug 1970
 - [Wolfe, Bernard](https://en.wikipedia.org/wiki/Bernard_Wolfe): 1 May 1970
-- Women's Liberation: 17 Jul 1970; 24 Jul 1970
+- Women's Liberation: 17 Jul 1970; 24 Jul 1970; 4 Sep 1970
 - [Woodstock Nation](https://en.wikipedia.org/wiki/Woodstock_Nation): 6 Mar 1970
 - [Wood, William](https://www.imdb.com/name/nm0940083): 1 May 1970
 - _Write for your Life_: 3 Jul 1970
