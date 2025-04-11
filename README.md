@@ -147,7 +147,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s TV
 - [Carter, Terry](https://en.wikipedia.org/wiki/Terry_Carter): 25 Sep 1970
 - Cartt, Sandra "Sandy" L.: 3 Jul 1970
 - [Cartwright, Angela](https://en.wikipedia.org/wiki/Angela_Cartwright): 9 Oct 1970
-- CASEY, BEN: 7 Aug 1970
+- CASEY, BEN: see _Ben Casey_
 - [Cash, Johnny](https://en.wikipedia.org/wiki/Johnny_Cash) (as actor): 19 Jun 1970; see also _Johnny Cash Presents the Everly Brothers_
 - [Cassidy, Jack](https://en.wikipedia.org/wiki/Jack_Cassidy): 3 Jul 1970
 - [Cavett, Dick](https://en.wikipedia.org/wiki/Dick_Cavett): 17 Jul 1970
