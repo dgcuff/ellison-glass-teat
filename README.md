@@ -129,6 +129,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - [Bruce, Lenny](https://en.wikipedia.org/wiki/Lenny_Bruce): 25 Sep 1970
 - Buffalo Springfield: 3 Jul 1970
 - [_Bullitt_](https://en.wikipedia.org/wiki/Bullitt) (Warner Bros.): 3 Apr 1970
+- Bunch, Chris: 25 Dec 1970
 - Bunker, Ellsworth: 3 Apr 1970
 - Burakoff, "Crazy" June (secretary for HE): 21 Aug 1970
 - Burdon, Eric: 3 Jul 1970
@@ -364,6 +365,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - [_High Chaparral, The_](https://en.wikipedia.org/wiki/The_High_Chaparral) (NBC): 1 May 1970; 9 Oct 1970
 - [Hinckle, Warren, III](https://en.wikipedia.org/wiki/Warren_Hinckle): 6 Mar 1970
 - [Higgins, Joe](https://en.wikipedia.org/wiki/Joe_Higgins_(actor)): 17 Jul 1970
+- Hollywood Water Bed Company: 25 Dec 1970
 - [Hope, Bob](https://en.wikipedia.org/wiki/Bob_Hope): 13 Feb 1970; 22 May 1970
 - [Hoffman, Abby](https://en.wikipedia.org/wiki/Abby_Hoffman): 24 Apr 1970
 - [Hoffman, Julius](https://en.wikipedia.org/wiki/Julius_Hoffman): 20 Feb 1970; 24 Apr 1970
@@ -574,6 +576,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - [_NBC Monday Movie, The_](https://en.wikipedia.org/wiki/The_NBC_Monday_Movie): 27 Nov 1970
 - Negron, Chuck: 8 May 1970
 - [Nelson, Ed](https://en.wikipedia.org/wiki/Ed_Nelson): 9 Oct 1970
+- Nesoff, Jack: 25 Dec 1970
 - [_New Interns, The_](https://en.wikipedia.org/wiki/The_New_Interns) (Columbia): 25 Sep 1970
 - [_Newlywed Game, The_](https://en.wikipedia.org/wiki/The_Newlywed_Game) (ABC): 3 Jul 1970; 27 Nov 1970
 - New Orleans, Louisiana: 8 May 1970
@@ -707,6 +710,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - [_Sesame Street_](https://en.wikipedia.org/wiki/Sesame_Street) (PBS): 8 May 1970; 19 Jun 1970
 - sex appeal in advertising: 13 Mar 1970; 27 Mar 1970
 - [SHADOW, THE](https://en.wikipedia.org/wiki/The_Shadow): 7 Aug 1970
+- Shair Water Bed: 25 Dec 1970
 - Sha Na Na: 3 Jul 1970
 - [Shavelson, Melville](https://en.wikipedia.org/wiki/Melville_Shavelson): 10 Jul 1970
 - [Shear, Barry](https://en.wikipedia.org/wiki/Barry_Shear): 25 Sep 1970
@@ -830,10 +834,11 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 ## W
 
 - [Wallace, Irving](https://en.wikipedia.org/wiki/Irving_Wallace): 14 Aug 1970
-- [Ward, Baxter](https://en.wikipedia.org/wiki/Baxter_Ward): 30 Oct 1970; 11 Dec 1970
+- [Ward, Baxter](https://en.wikipedia.org/wiki/Baxter_Ward): 30 Oct 1970; 11 Dec 1970; 25 Dec 1970
 - [Warehouse, the](https://en.wikipedia.org/wiki/The_Warehouse_(New_Orleans)), New Orleans music venue: 8 May 1970
 - [Warren, Lesley](https://en.wikipedia.org/wiki/Lesley_Ann_Warren): 18 Dec 1970
 - [Warwick, Dionne](https://en.wikipedia.org/wiki/Dionne_Warwick): 6 Mar 1970
+- water bed: 25 Dec 1970
 - [Wayne, John](https://en.wikipedia.org/wiki/John_Wayne): 18 Dec 1970
 - [Weaver, Dennis](https://en.wikipedia.org/wiki/Dennis_Weaver): 25 Sep 1970
 - [Webb, Jack](https://en.wikipedia.org/wiki/Jack_Webb): 26 Jun 1970
@@ -881,6 +886,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 ## Z
 
 - [Zagor, Mike](https://www.imdb.com/name/nm0951870): 3 Apr 1970; 1 May 1970; 11 Sep 1970
+- Zamoro, Micahel Valentine: 25 Dec 1970
 - Zappa, Frank: 3 Jul 1970
 - Zenger, John Peter: 4 Dec 1970
 - _Zig Zag_ (pilot): 3 Apr 1970
