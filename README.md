@@ -126,7 +126,8 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - _Brotherhood of Velvet, The_ (Lion Books, 1952): 25 Sep 1970
 - Brown, Dorothy: 27 Nov 1970
 - [Brown, Fredric](https://en.wikipedia.org/wiki/Fredric_Brown): 20 Mar 1970
-- Brown, James: 25 Sep 1970
+- Brown, James (James Joseph Brown): 25 Sep 1970
+- Brown, Jim (James Nathaniel Brown): 8 Jan 1971
 - [Bryant, Edward](https://en.wikipedia.org/wiki/Edward_Bryant): 20 Feb 1970; 26 Jun 1970
 - [Bruce, Lenny](https://en.wikipedia.org/wiki/Lenny_Bruce): 25 Sep 1970
 - [_Brute Force_](https://www.imdb.com/title/tt0039224/reference/?ref_=fn_all_ttl_1) (Universal): 1 Jan 1971
@@ -155,6 +156,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - [Cannon, J. D.](https://en.wikipedia.org/wiki/J._D._Cannon): 25 Sep 1970
 - Canterbury, Robert: 15 May 1970 (as "the brigadier general")
 - Capitol Federal Savings and Loan (Capitol Federal Savings Bank): 24 Apr 1970 
+- [Captoe, Truman](https://en.wikipedia.org/wiki/Truman_Capote): 8 Jan 1971
 - [Carroll, Diahann](https://en.wikipedia.org/wiki/Diahann_Carroll): 3 Apr 1970
 - [Carson, Johnny](https://en.wikipedia.org/wiki/Johnny_Carson): 14 Aug 1970
 - [Carter, Jack](https://en.wikipedia.org/wiki/Jack_Carter_(comedian)): 25 Sep 1970
@@ -164,7 +166,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - CASEY, BEN. See _Ben Casey_
 - [Cash, Johnny](https://en.wikipedia.org/wiki/Johnny_Cash) (as actor): 19 Jun 1970; see also _Johnny Cash Presents the Everly Brothers_
 - [Cassidy, Jack](https://en.wikipedia.org/wiki/Jack_Cassidy): 3 Jul 1970
-- [Cavett, Dick](https://en.wikipedia.org/wiki/Dick_Cavett): 17 Jul 1970
+- [Cavett, Dick](https://en.wikipedia.org/wiki/Dick_Cavett): 17 Jul 1970; 8 Jan 1971
 - [_CBS Evening News with Walter Cronkite, The_](https://en.wikipedia.org/wiki/CBS_Evening_News): 29 May 1970; 26 Jun 1970
 - [_CBS Thursday Night Movie_](https://en.wikipedia.org/wiki/CBS_Thursday_Night_Movie): 27 Nov 1970
 - censorship: 10 Jul 1970
@@ -175,12 +177,13 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - Chevron Corporation: _see_ Standard Oil Company of California; _see also_ F-310 gasoline additive
 - [Chicago riots (1968)](https://en.wikipedia.org/wiki/1968_Chicago_riots): 20 Feb 1970
 - [Chicago Seven](https://en.wikipedia.org/wiki/Chicago_Seven): 6 Mar 1970; 24 Apr 1970; 1 May 1970 (as "Chicago Conspiracy"); 18 Sep 1970 (as "Chicago Conspiracy Trial"); 9 Oct 1970 (as "Chicago Eight")
+- [_Child is Waiting, A_](https://www.imdb.com/title/tt0056930/r) (United Artists): 8 Jan 1971
 - Children's Home Society of California: 18 Sep 1970
 - Chuck Barris Productions: 3 Jul 1970; 24 Jul 1970
 - Christmas: 1 Jan 1971
 - [_Cimmaron Strip_](https://en.wikipedia.org/wiki/Cimarron_Strip) (CBS): 1 May 1970
 - Cinema Center Films: 25 Sep 1970
-- Cindy (girlfriend of HE): 4 Sep 1970; 25 Sep 1970
+- Cindy (girlfriend of HE): 4 Sep 1970; 25 Sep 1970; 8 Jan 1971
 - [Cinnamon Cinder](https://en.wikipedia.org/wiki/Cinnamon_Cinder): 24 Jul 1970
 - Clark, Ramsey: 17 Jul 1970
 - Clark, Ted, interviewed in _Psychology Today_: 25 Sep 1970
@@ -224,13 +227,14 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - "Day of the Yahoo" columns: 14 Aug 1970 (Part One); 21 Aug 70 (Part Two)
 - [Day, Robert](https://en.wikipedia.org/wiki/Robert_Day_(director)): 18 Dec 1970
 - _Day They Closed Down the Schools, The_: 13 Feb 1970
-- [_Death of a Salesman_](https://en.wikipedia.org/wiki/Death_of_a_Salesman) (Broadway, 1949): 11 Sep 1970
+- [_Death of a Salesman_](https://en.wikipedia.org/wiki/Death_of_a_Salesman) (Broadway, 1949): 11 Sep 1970; 8 Jan 1971
 - defanged dissent: 17 Jul 1970
 - [_Defenders, The_](https://en.wikipedia.org/wiki/The_Defenders_(1961_TV_series)) (CBS): 1 May 1970
 - desegregation, schools: 11 Dec 1970
 - Desprez, L. P., letter from: 18 Dec 1970
 - De Wolfe, Anne: 24 Jul 1970
 - [_Dial Hot Line_](https://en.wikipedia.org/wiki/Dial_Hot_Line) made-for-TV movie (Universal, aired ABC): 3 Apr 1970; 31 Jul 1970; 7 Aug 1970
+- [_Dick Cavett Show, The_](https://en.wikipedia.org/wiki/The_Dick_Cavett_Show) (ABC): 8 Jan 1971
 - Dickens, Charles: 1 Jan 1971
 - [Dickinson, Angie](https://en.wikipedia.org/wiki/Angie_Dickinson): 20 Mar 1970
 - [Dickson, Gordon](https://en.wikipedia.org/wiki/Gordon_R._Dickson): 24 Apr 1970
@@ -257,7 +261,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 
 ## E
 
-- [_East Side, West Side_](https://en.wikipedia.org/wiki/East_Side_West_Side_(TV_series)) (CBS): 7 Aug 1970
+- [_East Side, West Side_](https://en.wikipedia.org/wiki/East_Side_West_Side_(TV_series)) (CBS): 7 Aug 1970; 8 Jan 1971
 - [Eastwood, Clint](https://en.wikipedia.org/wiki/Clint_Eastwood): 25 Sep 1970
 - Eberly, Robert (as "Bob Eberle"): 3 Jul 1970
 - [_Edge of Night, The_](https://en.wikipedia.org/wiki/The_Edge_of_Night) (CBS): 8 May 1970
@@ -313,10 +317,11 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 ## G
 
 - Galesburg, Illinois: 13 Feb 1970
+- [Garland, Judy](https://en.wikipedia.org/wiki/Judy_Garland): 8 Jan 1971
 - gasoline additive: _see_ F-310 gasoline additive
 - [Geer, Will](https://en.wikipedia.org/wiki/Will_Geer): 25 Sep 1970
 - [_General Hospital_](https://en.wikipedia.org/wiki/General_Hospital) (ABC): 25 Sep 1970
-- [Genovese, Catherine "Kitty" Susan](https://en.wikipedia.org/wiki/Murder_of_Kitty_Genovese): 6 Mar 1970; 1 May 1970; 9 Oct 1970
+- [Genovese, Catherine "Kitty" Susan](https://en.wikipedia.org/wiki/Murder_of_Kitty_Genovese): 6 Mar 1970; 1 May 1970; 9 Oct 1970; 8 Jan 1971
 - [George, Christopher](https://en.wikipedia.org/wiki/Christopher_George): 9 Oct 1970
 - Georgia Black citizens killed: _see_ Augusta riot
 - [Gerritsen, Lisa](https://en.wikipedia.org/wiki/Lisa_Gerritsen): 25 Sep 1970
@@ -325,14 +330,14 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - girlfriends of Harlan Ellison: _see_ Cindy; Chapman, Leigh; Louise
 - Gitelson, Alfred: 11 Dec 1970
 - "Give Peace a Chance" (song): 18 Dec 1970
-- [Gleason, Jackie](https://en.wikipedia.org/wiki/Jackie_Gleason): 6 Mar 1970
+- [Gleason, Jackie](https://en.wikipedia.org/wiki/Jackie_Gleason): 6 Mar 1970; 8 Jan 1971
 - Glenn, Norman: 18 Dec 1970
 - Glicksohn, Mike, letter from: 22 May 1970
 - [_Godfather, The_](https://en.wikipedia.org/wiki/The_Godfather_(novel)) (Putnam's, 1969): 9 Oct 1970
 - [_Gomer Pyle - USMC_](https://en.wikipedia.org/wiki/Gomer_Pyle_%E2%80%93_USMC) (CBS): 13 Feb 1970
 - [_Goodbye, Mr. Chips_](https://www.imdb.com/title/tt0064382) (Metro-Goldwyn-Mayer): 20 Mar 1970
 - [_Good Guys, The_](https://en.wikipedia.org/wiki/The_Good_Guys_(1968_TV_series)) (CBS): 13 Feb 1970
-- [Gorme, Eydie](https://en.wikipedia.org/wiki/Eydie_Gorm%C3%A9): 6 Mar 1970◊
+- [Gorme, Eydie](https://en.wikipedia.org/wiki/Eydie_Gorm%C3%A9): 6 Mar 1970
 - Goulding, Ray: _see_ Bob & Ray
 - Granzow, Ed, call from: 25 Sep 1970
 - [_Green Acres_](https://en.wikipedia.org/wiki/Green_Acres) (CBS): 1 May 1970
@@ -344,7 +349,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - Gregg, Joe: 8 May 1970
 - Gregg shorthand: 14 Aug 1970
 - [Gregory, Dick](https://en.wikipedia.org/wiki/Dick_Gregory): 17 Jul 1970
-- [Griffith, Andy](https://en.wikipedia.org/wiki/Andy_Griffith): 25 Sep 1970
+- [Griffith, Andy](https://en.wikipedia.org/wiki/Andy_Griffith): 25 Sep 1970; 8 Jan 1971
 - [Gunn, James E.](https://en.wikipedia.org/wiki/James_E._Gunn): 24 Apr 1970
 - [_Gunsmoke_](https://en.wikipedia.org/wiki/Gunsmoke) (CBS): 27 Nov 1970
 - [Guss, Jack](https://www.imdb.com/name/nm0348924/): 27 Nov 1970; 1 Jan 1971
@@ -437,7 +442,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - Kennedy, Jackie (n&eacute;e Bouvier): 14 Aug 1970
 - Kennedy, John F.: 14 Aug 1970
 - Kenner Products: 13 Mar 1970
-- Kent State shootings: 15 May 1970; 22 May 1970; 14 Aug 1970
+- Kent State shootings: 15 May 1970; 22 May 1970; 14 Aug 1970; 8 Jan 1971
 - Kerby, Bill, letter from: 4 Dec 1970
 - [KHJ](https://en.wikipedia.org/wiki/KHJ_(AM)) radio station: 11 Dec 1970
 - Kidd, David: 20 Mar 1970
@@ -464,6 +469,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 
 - LAMB CHOP: 4 Sep 1970
 - [_Land of the Giants_](https://en.wikipedia.org/wiki/Land_of_the_Giants) (ABC): 27 Feb 1970; 3 Apr 1970; 1 May 1970
+- [Lancaster, Burt](https://en.wikipedia.org/wiki/Burt_Lancaster): 8 Jan 1971
 - [Lane, Mark](https://en.wikipedia.org/wiki/Mark_Lane_(author)): 17 Jul 1970
 - LANE, MARGO: 7 Aug 1970
 - Laos, US bombing campaigh in: 20 Mar 1970
@@ -499,6 +505,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - [_Lost in the Stars_](https://en.wikipedia.org/wiki/Lost_in_the_Stars) (Broadway, 1949): 4 Dec 1970
 - Louise (girlfriend of HE): 13 Feb 1970
 - [_Love Machine, The_](https://en.wikipedia.org/wiki/The_Love_Machine_(novel)) (Simon &amp; Schuster, 1969): 14 Aug 1970; 9 Oct 1970
+- [_Love Story_](https://www.imdb.com/title/tt0066011/) (Harper &amp; Row, 1970) (Paramount Pictures): 8 Jan 1971
 - [_Love War, The_](https://en.wikipedia.org/wiki/The_Love_War) (ABC): 20 Mar 1970; 1 May 1970; 9 Oct 1970
 - Lovin' Spoonful, The: 1 May 1970
 - Lubbock, Texas: 8 May 1970
@@ -511,18 +518,20 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - [McAdams, Jim](https://www.imdb.com/name/nm0563854/): 30 Oct 1970; 27 Nov 1970; 1 Jan 1971
 - [McCaffrey, Anne](https://en.wikipedia.org/wiki/Anne_McCaffrey): 24 Apr 1970
 - [McCann, Chuck](https://en.wikipedia.org/wiki/Chuck_McCann): 3 Jul 1970
+- McCarthy, Eugene: 8 Jan 1971
 - McCarthy, Joseph: 1 May 1970; 17 Jul 1970; 14 Aug 1970
 - [_McCloud_](https://en.wikipedia.org/wiki/McCloud_(TV_series)) (NBC): 25 Sep 1970
 - [McCowan, George](https://en.wikipedia.org/wiki/George_McCowan): 20 Mar 1970
 - [MacDougall, Ranald](https://en.wikipedia.org/wiki/Ranald_MacDougall): 10 Jul 1970
 - [McGavin, Darren](https://en.wikipedia.org/wiki/Darren_McGavin): 7 Aug 1970; 21 Aug 1970
+- [MacGraw, Ali](https://en.wikipedia.org/wiki/Ali_MacGraw): 8 Jan 1971
 - Mack, Ted. See _Ted Mack & the Original Amateur Hour_
 - [MacLeod, Gavin](https://en.wikipedia.org/wiki/Gavin_MacLeod:): 25 Sep 1970
 - McLuhan, Marshall: 8 May 1970; 22 May 1970
 - [McMahon, Ed](https://en.wikipedia.org/wiki/Ed_McMahon): 14 Aug 1970
 - McPike, Gary: 8 May 1970
 - [McQueen, Steve](https://en.wikipedia.org/wiki/Steve_McQueen): 3 Apr 1970; 26 Jun 1970
-- Maddox, Lester, Sr.: 24 Apr 1970
+- Maddox, Lester, Sr.: 24 Apr 1970; 8 Jan 1971
 - [_Make Room for Granddaddy_](https://www.imdb.com/title/tt0065287) (ABC): 9 Oct 1970
 - Malcolm X: 17 Jul 1970
 - Mamas & the Papas, The: _see_ Elliot, Cass
@@ -552,6 +561,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - [Metromedia](https://en.wikipedia.org/wiki/Metromedia): 18 Sep 1970
 - [_Midsummer Rock_](https://en.wikipedia.org/wiki/Midsummer_Rock) (prod. Avco Broadcasting): 4 Sep 1970
 - Miller, Dale, interviewed in _The New York Times_: 22 May 1970
+- [Miller, Jeffrey](https://en.wikipedia.org/wiki/Jeffrey_Miller_(shooting_victim)): 8 Jan 1971
 - [Mills, Juliet](https://en.wikipedia.org/wiki/Juliet_Mills): 13 Feb 1970
 - [Milne, Lorus J.](https://fr.wikipedia.org/wiki/Lorus_Milne) and Margery (nee Greene): 27 Feb 1970
 - [Milner, Martin](https://en.wikipedia.org/wiki/Martin_Milner): 26 Jun 1970
@@ -616,6 +626,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - "Okie from Muskogee" (song): 17 Jul 1970
 - [Oldenbourg, Zoe](https://en.wikipedia.org/wiki/Zo%C3%A9_Oldenbourg): 27 Feb 1970
 - [O'Loughlin, Gerald S.](https://en.wikipedia.org/wiki/Gerald_S._O%27Loughlin): 25 Sep 1970
+- [O'Neal, Ryan](https://en.wikipedia.org/wiki/Ryan_O%27Neal): 8 Jan 1971
 - [_Oscar, The_](https://www.imdb.com/title/tt0060801) (Embassy Pictures): 3 Jul 1970; 21 Aug 1970; 9 Oct 1970
 - Our Little Miss child beauty pageant: 4 Sep 1970; 18 Sep 1970
 - [_Outer Limits, The_](https://en.wikipedia.org/wiki/The_Outer_Limits_(1963_TV_series)) (ABC): 20 Mar 1970
@@ -629,6 +640,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - [_Partridge Family, The_](https://en.wikipedia.org/wiki/The_Partridge_Family) (ABC): 3 Apr 1970; 9 Oct 1970; 27 Nov 1970; 4 Dec 1970
 - [_Pat Paulsen's Half a Comedy Hour_](https://en.wikipedia.org/wiki/Pat_Paulsen%27s_Half_a_Comedy_Hour) (ABC): 3 Apr 1970
 - Paulsen, Pat. See _Pat Paulsen's Half a Comedy Hour_
+- [_Paths of Glory_](https://www.imdb.com/title/tt0050825) (United Artists): 8 Jan 1971
 - [_Patton_](https://www.imdb.com/title/tt0066206/) (Twentieth Century Fox): 13 Feb 1970
 - P.D.W., Ms. (pseudonym), letter from: 6 Mar 1970
 - Pentagon, the (United States Department of Defence): 29 May 1970
@@ -666,7 +678,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - [Randall, Tony](https://en.wikipedia.org/wiki/Tony_Randall): 3 Apr 1970; 9 Oct 1970
 - [Rapf, Matthew](https://en.wikipedia.org/wiki/Matthew_Rapf): 11 Sep 1970; 30 Oct 1970; 27 Nov 1970 
 - _Reader's Digest_ (magazine): 27 Nov 1970
-- Reagan, Ronald: 24 Apr 1970; 15 May 1970; 19 Jun 1970; 17 Jul 1970; 14 Aug 1970; 11 Sep 1970
+- Reagan, Ronald: 24 Apr 1970; 15 May 1970; 19 Jun 1970; 17 Jul 1970; 14 Aug 1970; 11 Sep 1970; 8 Jan 1971
 - [Reddin, Tom](https://en.wikipedia.org/wiki/Thomas_Reddin): 19 Jun 1970; 26 Jun 1970; 17 Jul 1970; 11 Dec 1970
 - [_Red Skelton Show, The_](https://en.wikipedia.org/wiki/The_Red_Skelton_Show) (NBC): 25 Sep 1970 (as "_The New Red Skelton Show_")
 - [Reed, Tracy](https://en.wikipedia.org/wiki/Tracy_Reed_(American_actress)): 9 Oct 1970
@@ -678,12 +690,13 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - Richards, Dick, interviewed in _The New York Times_: 22 May 1970
 - [_Ripcord_](https://en.wikipedia.org/wiki/Ripcord_(TV_series)) (syndication): 1 May 1970; 11 Sep 1970
 - [Rintels, David W.](https://www.imdb.com/name/nm0725766): 18 Dec 1970
+- [Robbins, Harold](https://en.wikipedia.org/wiki/Harold_Robbins): 14 Aug 1970
+- [_Robe, The_](https://www.imdb.com/title/tt0046247/) (Twentieth Century Fox): 25 Dec 1970; 8 Jan 1971
+- [Roberts, Clete?](https://en.wikipedia.org/wiki/Clete_Roberts): 11 Dec 1970
+- Robinson, Smokey: 18 Dec 1970
 - Rockwell, Norman: 22 May 1970
 - Rodman, Howard, Sr.: 1 May 1970
 - [Rodriguez, Percy](https://en.wikipedia.org/wiki/Percy_Rodriguez): 1 May 1970; 9 Oct 1970
-- [Robbins, Harold](https://en.wikipedia.org/wiki/Harold_Robbins): 14 Aug 1970
-- [Roberts, Clete?](https://en.wikipedia.org/wiki/Clete_Roberts): 11 Dec 1970
-- Robinson, Smokey: 18 Dec 1970
 - Rolling Stones, The: 6 Mar 1970
 - [_Room 222_](https://en.wikipedia.org/wiki/Room_222) (ABC): 27 Nov 1970
 - Rosen, Martha, letter from: 7 Aug 1970
@@ -716,6 +729,8 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - Sebastian, John: 3 Jul 1970
 - Second Indochina War: _see_ Vietnam War
 - secretaries employed by Harlan Ellison: 19 Jun 1970; 21 Aug 1970
+- [Segal, Erich](https://en.wikipedia.org/wiki/Erich_Segal): 8 Jan 1971
+- segration, racial: 8 Jan 1971
 - Selective Service System: _see_ draft board
 - [Semple, Lorenzo, Jr.](https://en.wikipedia.org/wiki/Lorenzo_Semple_Jr.): 1 May 1970
 - _Senator, The_. See _Bold Ones, The: The Senator_
@@ -734,10 +749,12 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - [_Silent Force, The_](https://en.wikipedia.org/wiki/The_Silent_Force_(TV_series)) (ABC): 3 Apr 1970; 9 Oct 1970; 27 Nov 1970
 - Silver Dollar Café: 11 Dec 1970
 - [Simmons, Richard Alan](https://en.wikipedia.org/wiki/Richard_Alan_Simmons): 1 May 1970
+- [Simon, John](https://en.wikipedia.org/wiki/John_Simon_(critic)): 8 Jan 1971
 - [Simon, Neil](https://en.wikipedia.org/wiki/Neil_Simon): 3 Apr 1970; 9 Oct 1970
 - "Sixteen Tons" (song): 17 Jul 1970
 - [_60 Minutes_](https://en.wikipedia.org/wiki/60_Minutes) (CBS): 22 May 1970
 - [Skelton, Red](https://en.wikipedia.org/wiki/Red_Skelton): 25 Sep 1970; 27 Nov 1970
+- [_Slattery's People_](https://en.wikipedia.org/wiki/Slattery%27s_People) (CBS): 8 Jan 1971
 - Sly and the Family Stone: 3 Jul 1970
 - [Smith, Cecil](https://en.wikipedia.org/wiki/Cecil_Smith_(writer)): 4 Dec 1970
 - [Smith, Howard K.](https://en.wikipedia.org/wiki/Howard_K._Smith): 15 May 1970; 22 May 1970; 17 Jul 1970; 4 Dec 1970
@@ -760,6 +777,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - [Steve and Eydie](https://en.wikipedia.org/wiki/Steve_and_Eydie): 6 Mar 1970
 - Stevens, Bobby: _see_ Checkmates, Ltd.
 - STEVENS, MARK: 17 Jul 1970
+- Stevenson, Adlai: 8 Jan 1971
 - [Stone, I. F.](https://en.wikipedia.org/wiki/I._F._Stone): 4 Dec 1970
 - [_Storefront Lawyers_](https://en.wikipedia.org/wiki/Storefront_Lawyers) (CBS): 25 Sep 1970A
 - [Story, Ralph](https://en.wikipedia.org/wiki/Ralph_Story): 11 Dec 1970
@@ -770,7 +788,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - Sunset Strip, West Hollywood, California: 6 Mar 1970; 9 Oct 1970
 - SUNY: _see_ State University of New York
 - _Survivors, The_. See _Harold Robbins' The Survivors_
-- [Susann, Jacqueline](https://en.wikipedia.org/wiki/Jacqueline_Susann): 14 Aug 1970
+- [Susann, Jacqueline](https://en.wikipedia.org/wiki/Jacqueline_Susann): 14 Aug 1970; 8 Jan 1971
 - [Susskind, David](https://en.wikipedia.org/wiki/David_Susskind): 22 May 1970
 - [_Swing Out, Sweet Land_](https://en.wikipedia.org/wiki/Swing_Out,_Sweet_Land) (NBC): 18 Dec 1970
 - [Synanon](https://en.wikipedia.org/wiki/Synanon): 31 Jul 1970
@@ -834,6 +852,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - [_Valley of the Dolls_](https://en.wikipedia.org/wiki/Valley_of_the_Dolls_(novel)) (Bernard Geis, 1966): 14 Aug 1970
 - [Van Dyke, Jerry](https://en.wikipedia.org/wiki/Jerry_Van_Dyke): 25 Sep 1970
 - [_Variety_](https://en.wikipedia.org/wiki/Variety_(magazine)) magazine: 27 Mar 1970; 29 May 1970
+- [Vecchio, Mary Ann](https://en.wikipedia.org/wiki/Mary_Ann_Vecchio): 8 Jan 1971
 - [Velvel, Lawrence](https://exhibits.lib.ku.edu/exhibits/show/the-year-that-rocked-ku/vietnam-war-protest): 24 Apr 1970
 - Vermeer, ?, sociologist: 26 Jun 1970
 - Victory Drive-In Theater: 24 Jul 1970
@@ -882,7 +901,7 @@ An index for [Harlan Ellison](https://en.wikipedia.org/wiki/Harlan_Ellison)'s "T
 - [Wood, William](https://www.imdb.com/name/nm0940083): 1 May 1970
 - _Write for your Life_: 3 Jul 1970
 - _Writer's Cramp, The_ newsletter: 6 Mar 1970
-- Writers Guild of America West: 1 May 1970; 10 Jul 1970
+- Writers Guild of America West: 1 May 1970; 10 Jul 1970; 8 Jan 1971
 - [Wynn, Tracy Keenan](https://en.wikipedia.org/wiki/Tracy_Keenan_Wynn): 1 May 1970
 
 ## X
